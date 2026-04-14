@@ -1,0 +1,869 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "0",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "1",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "1",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "2",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "2",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "3",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "3",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "4",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "4",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "5",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "5",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "6",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "6",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "7",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "7",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "8",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "8",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "9",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "9",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "10",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "10",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "11",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "11",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "12",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "12",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "13",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "13",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "14",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "14",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "15",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "15",
+			"age": "0"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "0",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "0",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "1",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "1",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "2",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "2",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "3",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "3",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "4",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "4",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "5",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "5",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "6",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "6",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "7",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "7",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "8",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "8",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "9",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "9",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "10",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "10",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "11",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "11",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "12",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "12",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "13",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "13",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "14",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "14",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "15",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "15",
+			"age": "1"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "0",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "0",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "1",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "1",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "2",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "2",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "3",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "3",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "4",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "4",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "5",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "5",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "6",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "6",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "7",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "7",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "8",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "8",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "9",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "9",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "10",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "10",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "11",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "11",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "12",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "12",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "13",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "13",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "14",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "14",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"rotation": "15",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"rotation": "15",
+			"age": "2"
+		},
+		"Name": "netherexp:blue_scale_fungus"
+	}
+]

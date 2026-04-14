@@ -1,0 +1,1924 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "white",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "orange",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "magenta",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "light_blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "yellow",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "lime",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "pink",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "light_gray",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "cyan",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "purple",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "blue",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "brown",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "green",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "red",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "black",
+			"ap_axis": "x"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "white",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "white",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "white",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "white",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "white",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "orange",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "magenta",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "light_blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "yellow",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "lime",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "pink",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "light_gray",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "cyan",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "purple",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "blue",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "brown",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "green",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "red",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"color": "black",
+			"ap_axis": "z"
+		},
+		"Name": "additionalplacements:moresnifferflowers.vivicus_slab"
+	}
+]

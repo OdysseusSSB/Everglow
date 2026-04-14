@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳"
+filename = "PassableFoliage-1.20.1-forge-8.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uaLW6JVR/versions/71TQMuce/PassableFoliage-1.20.1-forge-8.2.1.jar"
+hash-format = "sha512"
+hash = "2b6e284c29a8f75979d436be8748276d5e06e9be159b8337d9288df01c59439678e9a77ac44c6a220f5b34a620490e2a22f668c68189f72786c75146b797b4e9"
+
+[update]
+[update.modrinth]
+mod-id = "uaLW6JVR"
+version = "71TQMuce"

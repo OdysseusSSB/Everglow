@@ -1,0 +1,1445 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "0",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "0",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "0",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "0",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "0",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "1",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "1",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "1",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "1",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "1",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "2",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "2",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "2",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "2",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "2",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "3",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "3",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "3",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "3",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "3",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "4",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "4",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "4",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "4",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "4",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "5",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "5",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "5",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "5",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "5",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "6",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "6",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "6",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "6",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "6",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "7",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "7",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "7",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "7",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "7",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "8",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "8",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "8",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "8",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "8",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "9",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "9",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "9",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "9",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "9",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "10",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "10",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "10",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "10",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "10",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "11",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "11",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "11",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "11",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "11",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "12",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "12",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "12",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "12",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "12",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "13",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "13",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "13",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "13",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "13",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "14",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "14",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "14",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "14",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "14",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "15",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "15",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "15",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "15",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "15",
+			"invisible": "true"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "0",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "0",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "0",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "0",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "1",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "1",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "1",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "1",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "1",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "2",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "2",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "2",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "2",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "2",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "3",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "3",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "3",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "3",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "3",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "4",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "4",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "4",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "4",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "4",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "5",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "5",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "5",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "5",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "5",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "6",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "6",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "6",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "6",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "6",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "7",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "7",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "7",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "7",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "7",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "8",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "8",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "8",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "8",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "8",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "9",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "9",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "9",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "9",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "9",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "10",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "10",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "10",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "10",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "10",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "11",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "11",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "11",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "11",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "11",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "12",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "12",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "12",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "12",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "12",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "13",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "13",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "13",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "13",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "13",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "14",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "14",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "14",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "14",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "14",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "0",
+			"rotation": "15",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "1",
+			"rotation": "15",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "2",
+			"rotation": "15",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "3",
+			"rotation": "15",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "4",
+			"rotation": "15",
+			"invisible": "false"
+		},
+		"Name": "brewinandchewin:coaster"
+	}
+]

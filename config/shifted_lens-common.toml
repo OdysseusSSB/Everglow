@@ -1,0 +1,9 @@
+#Spawn height for Squills
+squillSpawnHeight = 128
+#If squids are milkable with buckets
+milkableSquids = true
+#If squids can be bucketed with water buckets
+bucketableSquids = true
+#If squid ink applies blindness or glowing
+blindingSquids = true
+

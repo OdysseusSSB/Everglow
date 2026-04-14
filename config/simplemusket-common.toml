@@ -1,0 +1,21 @@
+#The number of ticks needed to reload a musket. 20 ticks = 1 second.
+#Range: 20 ~ 80
+"Musket reload time" = 30
+#The number of ticks needed to aim a musket. 20 ticks = 1 second.
+#Range: 20 ~ 80
+"Musket aim time" = 30
+#The amount of damage dealt by bullets.
+#Range: 16.0 ~ 24.0
+"Bullet damage" = 16.0
+#Damage multiplier applied to bullets fired by mobs.
+#Range: 0.45 ~ 1.0
+"Mob bullet damage multiplier" = 0.45
+#If enabled, enchanted cartridges are craftable.
+"Craftable Enchanted cartridges" = true
+#If enabled, hellfire cartridges are craftable.
+"Craftable Hellfire cartridges" = false
+#If enabled, hellfire cartridges can be found in chest loot.
+"Hellfire cartridges" = true
+#If enabled, hellfire cartridges can be obtained by bartering with piglins
+"Barter Hellfire cartridges" = true
+

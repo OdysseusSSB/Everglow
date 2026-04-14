@@ -1,0 +1,13 @@
+name = "Simple Musket"
+filename = "simplemusket-forge-1.20.1-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iqZQWhrH/versions/UqTiIPUz/simplemusket-forge-1.20.1-1.9.2.jar"
+hash-format = "sha512"
+hash = "6fcb51927302f5f4a5c0e73701f6143220841874581d275595c95d113cf70b1807da64c1d707f7f1051ae2c2d6e0368aec57afbb93915ca85933a3c0e4edc27e"
+
+[update]
+[update.modrinth]
+mod-id = "iqZQWhrH"
+version = "UqTiIPUz"

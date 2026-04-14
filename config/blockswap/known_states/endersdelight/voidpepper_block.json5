@@ -1,0 +1,3584 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "true"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "true",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "true",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "true",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "true",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "true",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "true",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "true",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"up": "false",
+			"spreading": "false",
+			"south": "false",
+			"pepper": "false",
+			"north": "false",
+			"east": "false",
+			"down": "false"
+		},
+		"Name": "endersdelight:voidpepper_block"
+	}
+]

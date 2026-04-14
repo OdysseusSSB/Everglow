@@ -1,0 +1,13 @@
+name = "Fishing Real"
+filename = "fishingreal-forge-1.20.1-1.9.1-backport.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIdaKqt7/versions/RLxe3JhW/fishingreal-forge-1.20.1-1.9.1-backport.jar"
+hash-format = "sha512"
+hash = "acc0869137d5e72e7a3f22c56d17f4c66cf50c8b17e45a6b6f81472c17c3cd905c89d13112279afcf1136dfc8bcb1830a7809920f28cb83004f644f530eec14c"
+
+[update]
+[update.modrinth]
+mod-id = "MIdaKqt7"
+version = "RLxe3JhW"

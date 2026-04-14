@@ -1,0 +1,13 @@
+name = "Sully's Mod"
+filename = "sullysmod-3.2.1-beta-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vOm0vWW8/versions/B9yOFBhf/sullysmod-3.2.1-beta-all.jar"
+hash-format = "sha512"
+hash = "270d8797698e26cf99eedd176bf8bcf24326465b8bd2a61d95d8606de45b689094d377defdebfa7d9ca751799a7270bbe5f32456a18bd0a6df9785c8302f1398"
+
+[update]
+[update.modrinth]
+mod-id = "vOm0vWW8"
+version = "B9yOFBhf"

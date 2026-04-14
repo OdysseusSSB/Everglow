@@ -1,0 +1,42 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "fire"
+		},
+		"Name": "windswept:christmas_pudding"
+	},
+	{
+		"Name": "windswept:christmas_pudding"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "3"
+		},
+		"Name": "windswept:christmas_pudding"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "2"
+		},
+		"Name": "windswept:christmas_pudding"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "1"
+		},
+		"Name": "windswept:christmas_pudding"
+	}
+]

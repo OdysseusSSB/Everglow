@@ -1,0 +1,1763 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "true",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"is_melted": "false",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "sullysmod:amber_brick_stairs"
+	}
+]

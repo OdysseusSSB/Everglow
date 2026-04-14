@@ -1,0 +1,119 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_planks"
+	}
+]

@@ -1,0 +1,5 @@
+#If Ghasts have a more vanilla faithful texture
+retroGhasts = false
+#If Guardians have a cleaner looking texture
+stainlessGuardians = false
+

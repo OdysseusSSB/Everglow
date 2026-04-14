@@ -1,0 +1,646 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"age": "0"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"age": "1"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"age": "2"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"age": "3"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"age": "4"
+		},
+		"Name": "netherexp:cerebrage_skull"
+	}
+]

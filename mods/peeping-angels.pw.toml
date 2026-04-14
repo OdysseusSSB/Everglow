@@ -1,0 +1,13 @@
+name = "Peeping Angels"
+filename = "peeping_angels-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pRWPunvR/versions/rkVZxKoL/peeping_angels-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "1b222837416892e2578680cda320cda1618177391980ec5f15ee2e15cdf30bc51bf0121eb5a34ec2ef1529eafc0ef0e3e78402c62a2f01c62e0e3db5b847b665"
+
+[update]
+[update.modrinth]
+mod-id = "pRWPunvR"
+version = "rkVZxKoL"

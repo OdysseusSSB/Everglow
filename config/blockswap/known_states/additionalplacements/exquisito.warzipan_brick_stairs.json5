@@ -1,0 +1,2246 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_up_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_down_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "east_south_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "east_south_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "west_north_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "west_north_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "north_east_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "north_east_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_straight"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_front_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_front_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_top_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_top_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_inner_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_back_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_back_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_both_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_both_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_back_left_bottom_right"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"front_top_shape": "south_west_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"front_top_shape": "south_west_outer_back_right_bottom_left"
+		},
+		"Name": "additionalplacements:exquisito.warzipan_brick_stairs"
+	}
+]

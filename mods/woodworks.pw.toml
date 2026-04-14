@@ -1,0 +1,13 @@
+name = "Woodworks"
+filename = "woodworks-1.20.1-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rv1sovni/versions/236Amnif/woodworks-1.20.1-3.0.2.jar"
+hash-format = "sha512"
+hash = "c603e306917569ef94d13cb4d1d43e329826828d474ec7bc02ed80c4938a4ad687b32437555d7fe11268bb9e12871bc5802a4941fba9130037ccdd997568c0d7"
+
+[update]
+[update.modrinth]
+mod-id = "rv1sovni"
+version = "236Amnif"

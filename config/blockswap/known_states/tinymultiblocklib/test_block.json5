@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "true",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "true",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "true",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "true",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "false",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "false",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "false",
+			"age": "0"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "true",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "true",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "true",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "true",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "false",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "false",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "false",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "false",
+			"age": "1"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "true",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "true",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "true",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "true",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "false",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "false",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "false",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "false",
+			"age": "2"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "true",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "true",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "true",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "true",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"center": "false",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"center": "false",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"center": "false",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"center": "false",
+			"age": "3"
+		},
+		"Name": "tinymultiblocklib:test_block"
+	}
+]

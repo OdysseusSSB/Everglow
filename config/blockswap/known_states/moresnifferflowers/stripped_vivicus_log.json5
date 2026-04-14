@@ -1,0 +1,869 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "white",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "white",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "orange",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "orange",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "magenta",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "magenta",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_blue",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_blue",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "yellow",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "yellow",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "lime",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "lime",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "pink",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "pink",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "gray",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "gray",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_gray",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_gray",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "cyan",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "cyan",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "purple",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "purple",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "blue",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "blue",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "brown",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "brown",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "green",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "green",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "red",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "red",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "black",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "black",
+			"axis": "x"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "white",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "orange",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "orange",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "magenta",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "magenta",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_blue",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_blue",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "yellow",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "yellow",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "lime",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "lime",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "pink",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "pink",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "gray",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "gray",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_gray",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_gray",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "cyan",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "cyan",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "purple",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "purple",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "blue",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "blue",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "brown",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "brown",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "green",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "green",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "red",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "red",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "black",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "black",
+			"axis": "y"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "white",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "white",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "orange",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "orange",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "magenta",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "magenta",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_blue",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_blue",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "yellow",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "yellow",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "lime",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "lime",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "pink",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "pink",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "gray",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "gray",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "light_gray",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "light_gray",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "cyan",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "cyan",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "purple",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "purple",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "blue",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "blue",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "brown",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "brown",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "green",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "green",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "red",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "red",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"color": "black",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"color": "black",
+			"axis": "z"
+		},
+		"Name": "moresnifferflowers:stripped_vivicus_log"
+	}
+]

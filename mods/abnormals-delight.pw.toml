@@ -1,0 +1,13 @@
+name = "Abnormals Delight"
+filename = "abnormals_delight-1.20.1-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ts3qjo5t/versions/vvM8zPPK/abnormals_delight-1.20.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "9df6fa9adbf718dfec505167475e1d3c8a2a3aa124553658b8cc6659d09064290f7e878ae59f9ae0a9a293dc46630062cddd6b93f2b558bfded39963ae2f35f3"
+
+[update]
+[update.modrinth]
+mod-id = "ts3qjo5t"
+version = "vvM8zPPK"

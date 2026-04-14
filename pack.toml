@@ -1,0 +1,13 @@
+name = "Everglow"
+author = "OdysseusSSB"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e752e5a229b8dede0fcaf1e96ad9e3985a05c5ca69c8011ca433046995b5a3e1"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"

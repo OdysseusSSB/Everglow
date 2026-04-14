@@ -1,0 +1,13 @@
+name = "WF's Cave Overhaul"
+filename = "caveoverhaul-forge-1.20.1-1.3.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZRPxKjL/versions/r0WJX61E/caveoverhaul-forge-1.20.1-1.3.3.4.jar"
+hash-format = "sha512"
+hash = "fd5490e3c0433c65104823884d37323f29141c1c2353c669559b582317d04aee4f2c6917c151b3e506a428c339d301caafdedc7bb2c5531c711fce2ec7783f5a"
+
+[update]
+[update.modrinth]
+mod-id = "bZRPxKjL"
+version = "r0WJX61E"

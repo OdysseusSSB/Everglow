@@ -1,0 +1,1924 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "north"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "south"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "west"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "base",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "end",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "middle",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "1",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "2",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "3",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "4",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "5",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"servings": "6",
+			"leaf_feast_type": "tip",
+			"facing": "east"
+		},
+		"Name": "ubesdelight:leaf_feast_hopia_munggo"
+	}
+]

@@ -1,0 +1,13 @@
+name = "More Sniffer Flowers"
+filename = "MoreSnifferFlowers-1.20.1-Forge-6.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DbriYWc8/versions/piNeFXVY/MoreSnifferFlowers-1.20.1-Forge-6.6.5.jar"
+hash-format = "sha512"
+hash = "385969741041a4a45f17e638b964a88d891981b3f91dbcca8a4010ed1ac373767c4c8307f5f94a33d4a01f74cb34121826fcd78b1043350b72469460ccde5ae4"
+
+[update]
+[update.modrinth]
+mod-id = "DbriYWc8"
+version = "piNeFXVY"

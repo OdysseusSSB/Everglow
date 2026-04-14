@@ -1,0 +1,326 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "1"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "1"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "1"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "1"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "2"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "2"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "2"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "2"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "3"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "3"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "3"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "3"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "4"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "4"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "4"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "4"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "5"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "5"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "5"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "5"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "6"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "6"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "6"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "6"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "7"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "7"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "7"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "7"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "8"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "8"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "8"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "8"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "0",
+			"distance": "9"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "9"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "9"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "9"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "1",
+			"distance": "10"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "2",
+			"distance": "10"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"spots": "3",
+			"distance": "10"
+		},
+		"Name": "netherexp:decayable_nether_wart_block"
+	}
+]

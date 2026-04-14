@@ -1,0 +1,5635 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "north",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "south",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "west",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "true",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"in_wall": "false",
+			"facing": "east",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_fence_gate"
+	}
+]

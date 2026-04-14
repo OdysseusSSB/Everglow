@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "white"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "orange"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "magenta"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "light_blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "yellow"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "lime"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "pink"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "light_gray"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "cyan"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "purple"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "blue"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "brown"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "green"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "red"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "0",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "0",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "true",
+			"stage": "1",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"vivicus_cured": "false",
+			"stage": "1",
+			"color": "black"
+		},
+		"Name": "moresnifferflowers:vivicus_sapling"
+	}
+]

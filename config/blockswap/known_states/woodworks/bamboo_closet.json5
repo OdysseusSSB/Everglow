@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "woodworks:bamboo_closet"
+	}
+]

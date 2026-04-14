@@ -1,0 +1,13 @@
+name = "Farmer's Delight Compat"
+filename = "Compat_FarmersDelight.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV5T8uGT/versions/Nj18IvDz/Compat_FarmersDelight.jar"
+hash-format = "sha512"
+hash = "b03d39d3f7e72dd83b69f38d9e9ba481da49098cc9dace5e088363d248c6786cc474993f32faa3f2e53e1894f9093e374c8a3f7b9daf100b8d07c0b4295f5e48"
+
+[update]
+[update.modrinth]
+mod-id = "JV5T8uGT"
+version = "Nj18IvDz"

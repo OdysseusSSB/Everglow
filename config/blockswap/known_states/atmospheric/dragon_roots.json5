@@ -1,0 +1,1301 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "none"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "roots"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "fruit"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "flowering"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "north",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "south",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "west",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "none",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "roots",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "fruit",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "ender",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "flowering_ender",
+			"facing": "east",
+			"bottom": "flowering_ender"
+		},
+		"Name": "atmospheric:dragon_roots"
+	}
+]

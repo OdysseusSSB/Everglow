@@ -1,0 +1,13 @@
+name = "Item Obliterator"
+filename = "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ESR84kR/versions/EV0cDZhI/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
+hash-format = "sha512"
+hash = "4e207c6e0437dc14970d009453777111c8a1a8aed7953eefc32c057e964d1061ca71c38e6eb9b065f1b519da13d26a45f7e8bf199937fcc091beedccd6055754"
+
+[update]
+[update.modrinth]
+mod-id = "3ESR84kR"
+version = "EV0cDZhI"

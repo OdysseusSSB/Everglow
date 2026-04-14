@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.20.1-8.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/rbFaiVhz/collective-1.20.1-8.19.jar"
+hash-format = "sha512"
+hash = "4de515d3a21a36fe91da9065f949c3bdf084eb06c1ba5c285dff9cfa9e39b6c77bc081a42f964c012ff8acaa80cad9d8e68a5bfecccc1a4a593250cf15483e22"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "rbFaiVhz"
