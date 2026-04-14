@@ -29557,14 +29557,6 @@ file = "config/okzoomer-client.toml"
 hash = "d0b7763e135cbba21d71c339253562b04460e4b42f599aa4a05f33cd06c9169d"
 
 [[files]]
-file = "config/oreganized-client.toml"
-hash = "566c9b6e127b148b06b09d0c9d0d2c4f34ff79ea2198f107c12c9629a427b9c2"
-
-[[files]]
-file = "config/oreganized-common.toml"
-hash = "5f67817bc7f5904b7b87126a534b27889b131bd9582c769efa368c47533e6e24"
-
-[[files]]
 file = "config/overweight_farming-common.toml"
 hash = "9c34e2350b4fc2beefdf484150cc20727090128bfc3ea4c105b8e27110ab3b74"
 
@@ -29955,7 +29947,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b4d8049367206ac90858c296b1aceed0f57fb89afcb35cda998db34dbf3b2abc"
+hash = "e6904aff2afd2d2776bd3d21fefba44ebcdce1f8d3bd19819ba39411db419c3f"
 metafile = true
 
 [[files]]
