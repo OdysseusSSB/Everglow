@@ -1,6 +1,6 @@
 name = "River Redux"
 filename = "riverredux-0.3.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dhhdnacC/versions/Tjc3ivPe/riverredux-0.3.1.jar"
