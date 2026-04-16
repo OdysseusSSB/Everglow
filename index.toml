@@ -643,6 +643,11 @@ hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
@@ -650,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
 metafile = true
 
 [[files]]
