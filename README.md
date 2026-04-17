@@ -55,11 +55,9 @@ To manage mods, you must use the Packwiz CLI in the root folder of the repositor
 
 If you encounter any bugs, crashes, or other issues while playing the modpack, please let us know!
 
-1.  Navigate to the **Issues** tab at the top of this GitHub repository.
-2.  Click on the **New Issue** button.
-3.  Provide a clear and descriptive title for the issue.
-4.  In the description, please include as much detail as possible, such as:
+1.  Navigate to the **Issues** tab at the top of this GitHub repository and create a new Issue
+2.  Provide a clear and descriptive title for the issue.
+3.  In the description, please include as much detail as possible, such as:
     *   Steps to reproduce the issue.
     *   Crash reports or error logs (use a service like Pastebin or GitHub Gists for long logs).
-    *   Your operating system and launcher version.
-5.  Submit the issue, and we will look into it as soon as possible.
+4.  Submit the issue, and we will look into it as soon as possible.
