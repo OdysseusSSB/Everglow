@@ -51,7 +51,7 @@ To manage mods, you must use the Packwiz CLI in the root folder of the repositor
     packwiz refresh
     ```
 
-## Reporting Bugs and Issues
+## Issue Reporting
 
 If you encounter any bugs, crashes, or other issues while playing the modpack, please let us know!
 
