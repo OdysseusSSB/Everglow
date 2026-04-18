@@ -575,11 +575,6 @@ hash = "61a73f2009f59a347113a92e26014f0fd78cd8a572457b05809ac747f1ca91f5"
 metafile = true
 
 [[files]]
-file = "mods/simplest-copper-gear.pw.toml"
-hash = "971dcc05ad980a95fe7b808f03c35835e97c94b26dd918a23abeac1a3abf986c"
-metafile = true
-
-[[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
 hash = "b3834fa8c3be03d8ff106c80d970cc32f32aa9a6da7f97976cadf008057b8a92"
 metafile = true
