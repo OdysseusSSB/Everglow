@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "b487a9fca4a06576ad94b81226a7e951ecca4d56a4f640df7d76403cd04b24a3"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
+
+[[files]]
+file = "config/paxi/datapacks/bedframe-sawmill/data/kubejs/recipes/bedframe_sawing.json"
+hash = "1c41836a00aadc486f27ec351e2e141a4abb8b1d0266fabfebf856cc5042cb3c"
+
+[[files]]
+file = "config/paxi/datapacks/bedframe-sawmill/pack.mcmeta"
+hash = "7fd1ce7798e3137233312f7a624ee3215db9a8805a60757e43f5d5473e37913e"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -25,12 +37,8 @@ file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/kubejs/textures/item/bedframe.png"
+hash = "42b4da8f8a7dab7876faa0935c8ff9a2f671c8adaa5a6e0607a9d705ba8da5c6"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -45,12 +53,12 @@ file = "kubejs/config/common.properties"
 hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 
 [[files]]
-file = "kubejs/server_scripts/recipe.js"
-hash = "4c0d680a490abad6df4ed66e02ccad3cf2bda3829b0a9ecea5c23cc67e8a5fdf"
+file = "kubejs/server_scripts/bed_recipes.js"
+hash = "11e2613e4b2e298ef092d7949f0194c2bec8827cc8179e29f1621dbf7df75920"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "02d48ff6f28d5a657b8aaf07436957850788d89cd71cee9d90170b1d42b896a1"
+file = "kubejs/startup_scripts/bedframe_item_registry.js"
+hash = "2b34e6f443966e61001fb8b6ae4178ef6c2e2a00d8630ca51f302f3b5a0eb924"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -460,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "051c791539eea4ca61799d8a99738dc062978ef8ae47e08e452fb3c77262aeff"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
