@@ -14,7 +14,7 @@ hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
 
 [[files]]
 file = "config/paxi/datapacks/bedframe-sawmill/data/kubejs/recipes/bedframe_sawing.json"
-hash = "1c41836a00aadc486f27ec351e2e141a4abb8b1d0266fabfebf856cc5042cb3c"
+hash = "63012fc8d71c953618ecbb4ee9b114ac073fcf66dddaa11ac5d4a9c3a5b1eaa8"
 
 [[files]]
 file = "config/paxi/datapacks/bedframe-sawmill/pack.mcmeta"
@@ -54,7 +54,11 @@ hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
-hash = "11e2613e4b2e298ef092d7949f0194c2bec8827cc8179e29f1621dbf7df75920"
+hash = "f2234fb816b0353a36c590cacbac69d280895b2c35354addbab54bbe606a98e5"
+
+[[files]]
+file = "kubejs/server_scripts/loot.js"
+hash = "85f40a37d0ca64308dbea2680b292369a8219c1539d614c1ccff23c773fc574f"
 
 [[files]]
 file = "kubejs/startup_scripts/bedframe_item_registry.js"
@@ -383,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "3e33e0b6b8e3344678161758972264b069d8dbed72ae2ac3791843aa661bde5b"
 metafile = true
 
 [[files]]
