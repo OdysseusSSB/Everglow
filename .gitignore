@@ -1,1 +1,3 @@
-Everglow-0.1.0.mrpack
+#Ignore exported packs (and mrpacks changed to zip)
+/*.mrpack
+/*.zip
