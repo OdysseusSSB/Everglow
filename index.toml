@@ -81,16 +81,6 @@ hash = "7abf45785d2568b58dca518deb16e3ff760a59b1a9038a21f1977221ad33fea8"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/vanillacollections.pw.toml"
-hash = "3b45fbfe4d7786995568267c0268a531138807ff47259e39f2ba72663cac5849"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
-metafile = true
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "3871d1b63ca4aadde4b658837271390ce200190309b5680655cb4a7e84125ff0"
 
