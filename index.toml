@@ -17,6 +17,10 @@ file = "config/farmersdelight-common.toml"
 hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
 
 [[files]]
+file = "config/forgery/features.ini"
+hash = "564cd48185e83591ae8026daedc0e7bfdac3a8296cee6765c23d17399f82c06d"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "3871d1b63ca4aadde4b658837271390ce200190309b5680655cb4a7e84125ff0"
 
@@ -307,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/fishing-real.pw.toml"
 hash = "6cb2bff49eebfd73dc88ffe9888896f21d4167418fb0d187becbd02db895b7ef"
+metafile = true
+
+[[files]]
+file = "mods/forgery.pw.toml"
+hash = "ec62a05c819247f95c84be51feabe829b18fe6b52d625a2fe674f73912a6a420"
 metafile = true
 
 [[files]]
