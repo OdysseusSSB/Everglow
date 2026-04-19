@@ -5,6 +5,10 @@ file = "README.md"
 hash = "c06b1c733598213a9a4ed1fb3d128c1557b205b14218342b89962666a8b00923"
 
 [[files]]
+file = "config/chloride-client.json"
+hash = "e9e05e13e60aae8de31045683d09985537906c95f5542aaf8618736a1a828cc7"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -43,6 +47,10 @@ hash = "af35569fd1747f3e6bb048568651732d1649eb7e53e9d0a5d4e59f14f97fa9f9"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "9a086fe6e477114c34f575840832781587244c7b37b4176fd688564e54d637a3"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
