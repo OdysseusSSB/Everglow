@@ -1,0 +1,13 @@
+name = "(Bee's) Fluffy Carpets and Wool"
+filename = "Fluffy Carpets v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YvVQg79k/versions/2q7GowmP/Fluffy%20Carpets%20v1.1.zip"
+hash-format = "sha512"
+hash = "dd4765456adb701cdfab0f543b63bb43c0b47fdcf1449fda018e7cc1fd5d3340596d8b23bfd7ae9ae6962541c039f2187ddd5daee0c09f425ec70839771d02fe"
+
+[update]
+[update.modrinth]
+mod-id = "YvVQg79k"
+version = "2q7GowmP"

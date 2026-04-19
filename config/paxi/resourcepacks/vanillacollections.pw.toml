@@ -1,0 +1,13 @@
+name = "(Bee's) Vanilla+ Collections"
+filename = "Vanilla+ Collections Snap 2.6-d.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oe4yAyON/versions/vM7K8keh/Vanilla%2B%20Collections%20Snap%202.6-d.zip"
+hash-format = "sha512"
+hash = "0bfdb4eea31109a7e15e0ec671e117b98ad3bb09e119a2c3b1d8431ba6f3adb0284615cb43a1ba0a97d0aff193ccf63a50588ba204da4d147ea36f0e55c462df"
+
+[update]
+[update.modrinth]
+mod-id = "oe4yAyON"
+version = "vM7K8keh"

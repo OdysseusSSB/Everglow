@@ -1,0 +1,13 @@
+name = "Comforts Modernized"
+filename = "Comforts Modernized - V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BJoffwm5/versions/uFrHNRj0/Comforts%20Modernized%20-%20V1.1.zip"
+hash-format = "sha512"
+hash = "8c6fd801241a778356d5af6acf17de8c5b33bb20bfdb39c7439a3305793cf260c23a12dcc48cb6f72b1f57c68a0c5245efe5875f2f239fa5b5a97a972516ec04"
+
+[update]
+[update.modrinth]
+mod-id = "BJoffwm5"
+version = "uFrHNRj0"

@@ -1,0 +1,13 @@
+name = "Netherrack Resurrected"
+filename = "Netherrack Resurrected.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/55VENUlZ/versions/rtcRBGqC/Netherrack%20Resurrected.zip"
+hash-format = "sha512"
+hash = "0d748a9da1de6c1251765827a8c6143d15218ab56584ab77d5700ee39d4d923b078081e8393cac2c8b199eedcd0c563fe147bcbc2a23eb4378bc975aaf9afda5"
+
+[update]
+[update.modrinth]
+mod-id = "55VENUlZ"
+version = "rtcRBGqC"

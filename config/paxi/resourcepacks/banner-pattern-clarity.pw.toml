@@ -1,0 +1,13 @@
+name = "(Bee's) Banner Pattern Clarity"
+filename = "Banner Pattern Clarity v1.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uigm3P2d/versions/doQbX6sY/Banner%20Pattern%20Clarity%20v1.6.zip"
+hash-format = "sha512"
+hash = "36136360ee46efa24030f8151733962bbb9ea09188fb6156e5b587f62eb4f5c972fabd0a2769057575887fd8539e7e1c1a813acd944779a023555c53eab0584b"
+
+[update]
+[update.modrinth]
+mod-id = "Uigm3P2d"
+version = "doQbX6sY"

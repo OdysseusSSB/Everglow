@@ -1,0 +1,13 @@
+name = "Cozy Bees"
+filename = "Cozy_Bees_v3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZFOSG86A/versions/Pypnt6C9/Cozy_Bees_v3.zip"
+hash-format = "sha512"
+hash = "a729330fb70c9724cdd81d4c4d45cffbbf325ae7fef809c787f620e13541a71d3ae7e3084fa514fa44cd7a4277dc1f35917180baaee7156e7cce2c5a9f65529f"
+
+[update]
+[update.modrinth]
+mod-id = "ZFOSG86A"
+version = "Pypnt6C9"

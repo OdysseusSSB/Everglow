@@ -21,6 +21,76 @@ file = "config/forgery/features.ini"
 hash = "564cd48185e83591ae8026daedc0e7bfdac3a8296cee6765c23d17399f82c06d"
 
 [[files]]
+file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
+hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/blinking-ender-eyes.pw.toml"
+hash = "e4a8e0da20b0dc050ae9dd5c85b264932be117a2203e58f488d12d34013e0f73"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/blockier-goat-horn.pw.toml"
+hash = "c37e5e523342078805bf8810632802af12670b8d25d4f835373953cbc7222feb"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/comforts-modernized.pw.toml"
+hash = "385d74d9bbe10278d86d09f4cc4bfe206da1d91bf53744260bba37d8cd8a20c8"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cozy-bees.pw.toml"
+hash = "1877957be451142ba8d2286892256059482f6e6374501aa296feb5f7b34572d7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fine-armoury.pw.toml"
+hash = "84eb4bf56150f20451bd3687959a41ff06b52e3b7335e7f2c50d8a7c418876f5"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fluffy-carpets.pw.toml"
+hash = "88273a61b4ff94538d919604d031d79616e786153241e00363e39a1d4539876c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-flower-pots-compats.pw.toml"
+hash = "f8837aea521b515f291bc32a0aa40d0d9c61960715be3f9d4db35a1e13165fe9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-flower-pots.pw.toml"
+hash = "b7bced38e6ab7ab46d56c420ae7bbcb5e8d69b2857f952ee9c749b07ece0494e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/netherrack-resurrected.pw.toml"
+hash = "2b6d2eaff02d9b7061ffde114969154abbe1112816947eef95b422dd16756ec4"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/os-colorful-grasses.pw.toml"
+hash = "7abf45785d2568b58dca518deb16e3ff760a59b1a9038a21f1977221ad33fea8"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/vanillacollections.pw.toml"
+hash = "3b45fbfe4d7786995568267c0268a531138807ff47259e39f2ba72663cac5849"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "3871d1b63ca4aadde4b658837271390ce200190309b5680655cb4a7e84125ff0"
 
@@ -54,7 +124,7 @@ hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "9a086fe6e477114c34f575840832781587244c7b37b4176fd688564e54d637a3"
+hash = "7ebba883e7f2dc0c0295c2784f1306fe1ca3877735b95a3b7eba1a9cfa766151"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
@@ -131,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/berry-good.pw.toml"
 hash = "c410ef1d053db4fc3fccde5331fa3ebac561e0e2f6f4babe9110b9c322fbc95a"
+metafile = true
+
+[[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "d7833c1443305af317ead6c9fe24b6836822b9b60bacb5885eb1b7729d7f70f8"
 metafile = true
 
 [[files]]
@@ -321,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "ce017d458014e11d80c66b0840779531fbdb0089d6d58be62e2ebb3916f8c1ca"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e4bf02e4f4d64894c96ef07b68762f90c138bb202665bc6b377e000c715f2efd"
 metafile = true
 
 [[files]]

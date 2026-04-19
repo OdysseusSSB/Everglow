@@ -1,0 +1,13 @@
+name = "(Bee's) Blockier Goat Horn"
+filename = "Blockier Goat Horn v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cTm36Ih9/versions/M2yDljUP/Blockier%20Goat%20Horn%20v1.2.zip"
+hash-format = "sha512"
+hash = "7ba74126c5276501de3185505614d9d40b0903a0f4e64a42783cb9a9e46ce1331586fd7968528468859feadd61d0e7715fd7d52c0ebe8265d74fb9f3b4a618a8"
+
+[update]
+[update.modrinth]
+mod-id = "cTm36Ih9"
+version = "M2yDljUP"

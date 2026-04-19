@@ -1,0 +1,13 @@
+name = "Fresh Flower Pots: Compats"
+filename = "§3Fresh §bFlower Pots Compats§r.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nIWYcvUG/versions/pf4t5f7L/%C2%A73Fresh%20%C2%A7bFlower%20Pots%20Compats%C2%A7r.zip"
+hash-format = "sha512"
+hash = "5142c1cc81ab46fc045cef90103d1087c790a763b3820634037c8657e3c7f7a0b423341fc4201281edd49e26838d6638a17551010894750509bbb9344dfce09d"
+
+[update]
+[update.modrinth]
+mod-id = "nIWYcvUG"
+version = "pf4t5f7L"
