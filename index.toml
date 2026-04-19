@@ -124,7 +124,7 @@ hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "7ebba883e7f2dc0c0295c2784f1306fe1ca3877735b95a3b7eba1a9cfa766151"
+hash = "4fa160add31a9af1dfe6cc24f0a172adb83fa24ad35dd92b05476b3b208a8a5c"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
@@ -726,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "a6bfbcc4b791e7854ad42025e2f03b94a531ee2bd892e06949e677b82c4d2af9"
 metafile = true
 
 [[files]]
