@@ -44,7 +44,7 @@ key_key.ok_zoomer.zoom:key.keyboard.z
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
 key_key.ok_zoomer.reset_zoom:key.keyboard.unknown
-key_key.corpse.death_history:key.mouse.left
+key_key.corpse.death_history:key.keyboard.unknown
 key_key.additionalplacements.placement_toggle:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
