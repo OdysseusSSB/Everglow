@@ -29,4 +29,12 @@ ServerEvents.recipes(event => {
       }
     )
   })
+  event.custom({
+    type: 'woodworks:sawmill',
+    ingredient: {
+      tag: 'minecraft:planks'
+    },
+    result: 'kubejs:bedframe',
+    count: 1
+  })
 })
