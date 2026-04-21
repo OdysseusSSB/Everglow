@@ -1,6 +1,6 @@
 # Everglow
 
-Welcome to the repository for our Minecraft modpack, Everglow! This guide provides instructions on how to build the modpack from source, contribute to its development, and report any issues you may encounter.
+Welcome to the repository for the [Everglow](https://modrinth.com/modpack/everglow) modpack. This guide provides instructions on how to build the modpack from source, contribute to its development, and report any issues you may encounter.
 
 ## Building from Source
 
