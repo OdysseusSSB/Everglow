@@ -93,6 +93,10 @@ file = "config/supplementaries-common.toml"
 hash = "b0bc4e81f091c9911b667c2510f168f65e25d085d814973124aece0ce9ea25d5"
 
 [[files]]
+file = "kubejs/.packwizignore"
+hash = "95e0a42d9d6b5d82bdb3752f4d31f3fe7d0150c6b512bc094985b1a2b24b192b"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
