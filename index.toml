@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "c06b1c733598213a9a4ed1fb3d128c1557b205b14218342b89962666a8b00923"
+hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -115,10 +115,6 @@ hash = "af35569fd1747f3e6bb048568651732d1649eb7e53e9d0a5d4e59f14f97fa9f9"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
-
-[[files]]
-file = "kubejs/config/defaultoptions.txt"
-hash = "4fa160add31a9af1dfe6cc24f0a172adb83fa24ad35dd92b05476b3b208a8a5c"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
@@ -660,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/simple-musket.pw.toml"
 hash = "61a73f2009f59a347113a92e26014f0fd78cd8a572457b05809ac747f1ca91f5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a45bc70d623b15e2d71a1fe8bb123b4da3d2283f1dc571118e9bd5e28fb6b5b4"
 metafile = true
 
 [[files]]
