@@ -1,6 +1,6 @@
 name = "Everglow"
 author = "OdysseusSSB"
-version = "Dev"
+version = "[Dev]"
 pack-format = "packwiz:1.1.0"
 
 [index]
