@@ -5,6 +5,10 @@ file = "README.md"
 hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
 
 [[files]]
+file = "config/blockswap/block_swap.json5"
+hash = "9d304d4c639d7a6295b0b8b97b6888477f092ee18383a83d5ce61540dd62e34f"
+
+[[files]]
 file = "config/chloride-client.json"
 hash = "e9e05e13e60aae8de31045683d09985537906c95f5542aaf8618736a1a828cc7"
 
@@ -19,6 +23,10 @@ hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
 [[files]]
 file = "config/forgery/features.ini"
 hash = "564cd48185e83591ae8026daedc0e7bfdac3a8296cee6765c23d17399f82c06d"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "5bda3e489b2e1eb07016cdd90e07f36b25a0c8646f872cb15bf2aa643d0d1881"
 
 [[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
@@ -123,6 +131,10 @@ hash = "9fa891900b350ac591a41bf0b840c41b13d6338cc20f7f397e59c335b3d08f37"
 [[files]]
 file = "kubejs/server_scripts/loot.js"
 hash = "85f40a37d0ca64308dbea2680b292369a8219c1539d614c1ccff23c773fc574f"
+
+[[files]]
+file = "kubejs/server_scripts/rope_uses.js"
+hash = "0e6fff3be3e1849237ebcd8e2bf71908f5a9ed929b5fe521056a43e0e4aacd05"
 
 [[files]]
 file = "kubejs/server_scripts/saddle_recipe.js"
