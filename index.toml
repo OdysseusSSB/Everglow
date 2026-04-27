@@ -118,11 +118,15 @@ hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
-hash = "e90a7ebdcb04b759e7db364268cc1963642b43e2eac14df844edc0cd48d6fe2c"
+hash = "9fa891900b350ac591a41bf0b840c41b13d6338cc20f7f397e59c335b3d08f37"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
 hash = "85f40a37d0ca64308dbea2680b292369a8219c1539d614c1ccff23c773fc574f"
+
+[[files]]
+file = "kubejs/server_scripts/saddle_recipe.js"
+hash = "c8bdbc732ba94d96b8baea5d45b7bd7299f347c09930460a24e4e906c4616149"
 
 [[files]]
 file = "kubejs/startup_scripts/bedframe_item_registry.js"
@@ -476,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "3e33e0b6b8e3344678161758972264b069d8dbed72ae2ac3791843aa661bde5b"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "8208245560a5c1757b7a435a999c21a591dd012cd80df08f3832ca713de409e9"
 metafile = true
 
 [[files]]
