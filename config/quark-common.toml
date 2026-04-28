@@ -341,7 +341,7 @@
 	Abacus = true
 	"Ambient Discs" = true
 	"Ancient Tomes" = true
-	"Beacon Redirection" = true
+	"Beacon Redirection" = false
 	"Bottled Cloud" = true
 	"Color Runes" = true
 	"Endermosh Music Disc" = true
