@@ -1,0 +1,13 @@
+name = "CERBON's Better Beacons"
+filename = "BetterBeacons-Forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gSeQTNSE/versions/xVFiegCL/BetterBeacons-Forge-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "b04a06069d29552a53f9e3bd76f390d509ee5d7ed768faeff259ec2d4c5c6102be3ed5ac92424685b518c114042411c1b62a9cbd43f62c61fa7c0b420ed34ac0"
+
+[update]
+[update.modrinth]
+mod-id = "gSeQTNSE"
+version = "xVFiegCL"

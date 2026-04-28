@@ -265,6 +265,11 @@ hash = "b04f3690005952fb2f0d93b742a00d4b25547cbb4e2975aaca89fb0af58a9539"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-better-beacons.pw.toml"
+hash = "f742511208c1ebf21bbb1b5c130a81e234e19bca1b8d3f3c0cba7f058367a926"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
