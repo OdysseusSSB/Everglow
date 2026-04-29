@@ -1,0 +1,13 @@
+name = "Vintage Delight"
+filename = "vintagedelight-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T7XZLHGD/versions/q8Ght7Bo/vintagedelight-0.1.6.jar"
+hash-format = "sha512"
+hash = "aa8a527c0db8f0b24f3444bf072ca98130fb1cf4e59a273922d874cd6a2bf1c992d5b717db278e778543aaa967a5b78131b25ae318beeb6eb63b5e3b3bb29e56"
+
+[update]
+[update.modrinth]
+mod-id = "T7XZLHGD"
+version = "q8Ght7Bo"

@@ -785,6 +785,11 @@ hash = "a6bfbcc4b791e7854ad42025e2f03b94a531ee2bd892e06949e677b82c4d2af9"
 metafile = true
 
 [[files]]
+file = "mods/vintage-delight.pw.toml"
+hash = "330bdbb9b65aa962d68215ec4a1c72c8cc86ca81c8d3ea1c2adf4ef58871aa8f"
+metafile = true
+
+[[files]]
 file = "mods/wfs-cave-overhaul.pw.toml"
 hash = "557ef18f5d114bbb074cc4828389b809099c44fb03a6067003fd4dd6f9e20904"
 metafile = true
