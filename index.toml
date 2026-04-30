@@ -6,7 +6,7 @@ hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "9d304d4c639d7a6295b0b8b97b6888477f092ee18383a83d5ce61540dd62e34f"
+hash = "b192a5ea46e842a8abe71ffa0866b36c4114e9a4ed0f24f9241300c88f05eaf3"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -26,7 +26,7 @@ hash = "564cd48185e83591ae8026daedc0e7bfdac3a8296cee6765c23d17399f82c06d"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "5bda3e489b2e1eb07016cdd90e07f36b25a0c8646f872cb15bf2aa643d0d1881"
+hash = "e66a028e3edb75aaf250c2d82f9a65b9e1ec03425364dbb4da4e5be4e775c891"
 
 [[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3871d1b63ca4aadde4b658837271390ce200190309b5680655cb4a7e84125ff0"
+hash = "47fe6f0d256af9433f84965f3cdbca978bb5e500c7240cd47de6c21a7fc29a9c"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -139,6 +139,10 @@ hash = "0e6fff3be3e1849237ebcd8e2bf71908f5a9ed929b5fe521056a43e0e4aacd05"
 [[files]]
 file = "kubejs/server_scripts/saddle_recipe.js"
 hash = "c8bdbc732ba94d96b8baea5d45b7bd7299f347c09930460a24e4e906c4616149"
+
+[[files]]
+file = "kubejs/server_scripts/salt_drop_swap.js"
+hash = "7fe56f4aa9b3ecba39618a51d92be54dd79de29ce521a216df1bb133aa36a4a3"
 
 [[files]]
 file = "kubejs/startup_scripts/bedframe_item_registry.js"
@@ -437,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/golemsarefriends.pw.toml"
 hash = "9a2ecc8724fe056d27a3cd337db6b9c806c281c52c33d98fd7c70be9cc22fcf7"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "4905d86f34c58e9702877013ad2e7190091f6292581e95d490860fa7ba81a416"
 metafile = true
 
 [[files]]

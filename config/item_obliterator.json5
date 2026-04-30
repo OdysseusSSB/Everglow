@@ -16,7 +16,8 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "farmersdelight:rope"
+    "farmersdelight:rope",
+    "vintagedelight:kimchi"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
