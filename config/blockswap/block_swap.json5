@@ -85,6 +85,7 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-		"farmersdelight:rope": "supplementaries:rope"
+		"farmersdelight:rope": "supplementaries:rope",
+		"vintagedelight:cheese_mold": "minecraft:air"
 	}
 }

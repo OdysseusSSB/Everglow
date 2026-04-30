@@ -6,7 +6,7 @@ hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "b192a5ea46e842a8abe71ffa0866b36c4114e9a4ed0f24f9241300c88f05eaf3"
+hash = "a5b935dc80e054977a680a0b8deef44bb254057188c4ee2c2a8ae710465a966e"
 
 [[files]]
 file = "config/chloride-client.json"
