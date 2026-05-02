@@ -6,7 +6,7 @@ hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "a5b935dc80e054977a680a0b8deef44bb254057188c4ee2c2a8ae710465a966e"
+hash = "c6dc66d1b7ea65686161f4c8302bba238e7e40652ce562f3f0ff1dd9636ab7d3"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -22,11 +22,11 @@ hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "564cd48185e83591ae8026daedc0e7bfdac3a8296cee6765c23d17399f82c06d"
+hash = "fc2f2294391bd75e757a6119fb7976d1cf049583edc805d3fe3dc85111c73b7c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "e66a028e3edb75aaf250c2d82f9a65b9e1ec03425364dbb4da4e5be4e775c891"
+hash = "b77af541b978ee99a38f5ea46c3d918d9f8346526ea3afe80d0c608b852f35a5"
 
 [[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
@@ -127,6 +127,10 @@ hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
 hash = "9fa891900b350ac591a41bf0b840c41b13d6338cc20f7f397e59c335b3d08f37"
+
+[[files]]
+file = "kubejs/server_scripts/cheese_substitutes.js"
+hash = "eedf30ab0689cdffa7304999b17daf5cf17551b670c6677989da0b5413bde197"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
@@ -441,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/golemsarefriends.pw.toml"
 hash = "9a2ecc8724fe056d27a3cd337db6b9c806c281c52c33d98fd7c70be9cc22fcf7"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-harvest.pw.toml"
+hash = "30ac065fb7f776badf9032eb21c57dca98b9214b5c8b8db4ea83b296e82444f2"
 metafile = true
 
 [[files]]
