@@ -21,7 +21,16 @@
     "vintagedelight:cheese_slice",
     "vintagedelight:cheese_wheel",
     "vintagedelight:cheese_mold",
-    "vintagedelight:salt_dust"
+    "vintagedelight:salt_dust",
+    "hearthandharvest:cotton",
+    "hearthandharvest:cotton_seeds",
+    "hearthandharvest:wild_cotton",
+    "hearthandharvest:sweet_berry_jam",
+    "brewinandchewin:sweet_berry_jam",
+    "hearthandharvest:glow_berry_jam",
+    "brewinandchewin:glow_berry_marmalade",
+    "hearthandharvest:tree_tapper",
+    "hearthandharvest:universal_feed"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
