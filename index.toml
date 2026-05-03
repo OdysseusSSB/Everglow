@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "6a7dc27cc8157d7d79aa59bd7f65dc84bb0c73e6da6c3d088e3e04ba444ec2d7"
+hash = "49ea51ff79099f35f277270314d0bdd49c05968d58a31d91581b64a047097d46"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "e9e05e13e60aae8de31045683d09985537906c95f5542aaf8618736a1a828cc7"
+hash = "60fd6a58d54d9fe2be3de5b64a52489b4f60c716e022aca0868a6593124a2982"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -22,7 +22,7 @@ hash = "fc2f2294391bd75e757a6119fb7976d1cf049583edc805d3fe3dc85111c73b7c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1dee2b43b5f05a7b639d67c2cfbf8954c238e8a1f23b9d73ed6bcf4af4a3e5c3"
+hash = "cf894a425a885137568f4fbe4332e5eb0e38dab5bd1e2627aef3a5e7ff798d6a"
 
 [[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
@@ -122,11 +122,11 @@ hash = "9fa891900b350ac591a41bf0b840c41b13d6338cc20f7f397e59c335b3d08f37"
 
 [[files]]
 file = "kubejs/server_scripts/cheese_substitutes.js"
-hash = "f4775fd7080ab8487fe5d4b9b16a03edc7ca409b2b804bb38c463e44e747fc50"
+hash = "a3c4ef5bac71c6baa71a2ccf5cb276f51b3c86d8ba2506484eeadce8bd707bea"
 
 [[files]]
 file = "kubejs/server_scripts/fd_addons_recipes.js"
-hash = "b3613a9e646de87eed189a98d8cd65a699bfa456225ca534858755a7ce30301d"
+hash = "21262e5d2e4a51bd884aefd01370bdc56fa67aa156998ffb5985d3a1a6a1175c"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"

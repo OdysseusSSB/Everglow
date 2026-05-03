@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
       ' P '
     ],
     {
-      C: 'vintage_delight:cotton',
+      C: 'rusticdelight:cotton_boll',
       P: 'minecraft:stick',
       S: 'minecraft:sugar'
     }
@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
       'CCC'
     ],
     {
-      C: 'vintage_delight:cotton'
+      C: 'rusticdelight:cotton_boll'
     }
   );
   event.replaceInput(
@@ -34,7 +34,12 @@ ServerEvents.recipes(event => {
     'vintagedelight:roasted_peanut'
   );
   event.replaceOutput(
+    { input: 'hearthandharvest:cotton' },
     'hearthandharvest:cotton',
-    'rustic_delight:cotton_boll'
+    'rusticdelight:cotton_boll'
   );
-})
+  event.remove({id: 'hearthandharvest:string_from_cotton'});
+  event.remove({id: 'hearthandharvest:cotton_candy'});
+  event.remove({id: 'hearthandharvest:cotton_bale'});
+  event.remove({output: 'rusticdelight:cotton_boll_crate'});
+})  
