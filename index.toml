@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "49ea51ff79099f35f277270314d0bdd49c05968d58a31d91581b64a047097d46"
+hash = "5f4f35728584f9f542a7f4d9be1376b1ee1d29b3eccb681cee0f936e963af599"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -149,6 +149,14 @@ file = "kubejs/startup_scripts/bedframe_item_registry.js"
 hash = "2b34e6f443966e61001fb8b6ae4178ef6c2e2a00d8630ca51f302f3b5a0eb924"
 
 [[files]]
+file = "licenses/Forgery"
+hash = "e115e6fdf0b43e347f29ef213e1b20ce132c41b1f92f7b824683cf7a9feccfac"
+
+[[files]]
+file = "licenses/MIT License"
+hash = "361609ed917897cc38ef2ae23623aa8591f29aebc215f8fb9452c70a3b221009"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
 metafile = true
@@ -279,6 +287,11 @@ hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "d1a1614acad3bd48477c1047c72e6d088c1760aab683ebfdb6da3c7529a9ee97"
 metafile = true
@@ -321,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "c79e3a922498c4dbbecfa90c81534faf102ca9285bea9f10aef43b5994780739"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
 metafile = true
 
 [[files]]
