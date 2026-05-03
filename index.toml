@@ -9,6 +9,10 @@ file = "config/chloride-client.json"
 hash = "60fd6a58d54d9fe2be3de5b64a52489b4f60c716e022aca0868a6593124a2982"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "e6519ef5eebda8373e725158120df56f1d635f2d4eab48c8f0c937b8f8477c37"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -399,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/exquisito.pw.toml"
 hash = "6c762e64e4d4bb69ec9e59ddd7c6ac0c1bf7581eb157eb4cbbba4f5a890b970c"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "c3855a5011cc263726532999f35c8691db9fa60b9d470758dd826d25c29ed4cb"
 metafile = true
 
 [[files]]
