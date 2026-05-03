@@ -24,11 +24,12 @@ ServerEvents.recipes(event => {
     }
   );
   event.replaceInput(
-    //{ input: 'hearthandharvest:peanut' },
+    { input: 'hearthandharvest:peanut' },
     'hearthandharvest:peanut',
     'vintagedelight:peanut'
   );
   event.replaceInput(
+    { input: 'hearthandharvest:roasted_peanuts' },
     'hearthandharvest:roasted_peanuts',
     'vintagedelight:roasted_peanut'
   );
