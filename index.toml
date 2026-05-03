@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "483bdef2c8c780569b427d71631a6aefcfd30856aece69317a157ef6e5e90479"
-
-[[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "c6dc66d1b7ea65686161f4c8302bba238e7e40652ce562f3f0ff1dd9636ab7d3"
+hash = "6a7dc27cc8157d7d79aa59bd7f65dc84bb0c73e6da6c3d088e3e04ba444ec2d7"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -26,7 +22,7 @@ hash = "fc2f2294391bd75e757a6119fb7976d1cf049583edc805d3fe3dc85111c73b7c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "b77af541b978ee99a38f5ea46c3d918d9f8346526ea3afe80d0c608b852f35a5"
+hash = "1dee2b43b5f05a7b639d67c2cfbf8954c238e8a1f23b9d73ed6bcf4af4a3e5c3"
 
 [[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
@@ -101,10 +97,6 @@ file = "config/supplementaries-common.toml"
 hash = "b0bc4e81f091c9911b667c2510f168f65e25d085d814973124aece0ce9ea25d5"
 
 [[files]]
-file = "kubejs/.packwizignore"
-hash = "95e0a42d9d6b5d82bdb3752f4d31f3fe7d0150c6b512bc094985b1a2b24b192b"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
@@ -130,7 +122,11 @@ hash = "9fa891900b350ac591a41bf0b840c41b13d6338cc20f7f397e59c335b3d08f37"
 
 [[files]]
 file = "kubejs/server_scripts/cheese_substitutes.js"
-hash = "eedf30ab0689cdffa7304999b17daf5cf17551b670c6677989da0b5413bde197"
+hash = "f4775fd7080ab8487fe5d4b9b16a03edc7ca409b2b804bb38c463e44e747fc50"
+
+[[files]]
+file = "kubejs/server_scripts/fd_addons_recipes.js"
+hash = "b3613a9e646de87eed189a98d8cd65a699bfa456225ca534858755a7ce30301d"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"

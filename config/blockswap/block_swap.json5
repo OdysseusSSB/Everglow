@@ -88,6 +88,6 @@ to make editing this file much easier.
 		"farmersdelight:rope": "supplementaries:rope",
 		"vintagedelight:cheese_mold": "minecraft:air",
 		"hearthandharvest:wild_cotton": "vintage_delight:wild_cotton",
-		"hearthandharvest:wild_peanuts": "vintage_delight:wild_peanuts",
+		"hearthandharvest:wild_peanuts": "minecraft:grass"
 	}
 }
