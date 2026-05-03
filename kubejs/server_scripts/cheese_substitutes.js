@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
   event.shaped(
-    Item.of('trailsandtales_delight:cherry_cheese_cake'),
+    Item.of('trailandtales_delight:cherry_cheese_cake'),
     [
       'WWW',
       'CPC',
@@ -9,12 +9,12 @@ ServerEvents.recipes(event => {
     {
       W: 'minecraft:wheat',
       C: '#forge:cheeses',
-      P: 'trailsandtales_delight:cherry_petal',
+      P: 'trailandtales_delight:cherry_petal',
       S: 'minecraft:sugar'
     }
   );
   event.shaped(
-    Item.of('trailsandtales_delight:cherry_pie'),
+    Item.of('trailandtales_delight:cherry_pie'),
     [
       'WPW',
       'CPC',
@@ -23,9 +23,9 @@ ServerEvents.recipes(event => {
     {
       W: 'minecraft:wheat',
       C: '#forge:cheeses',
-      P: 'trailsandtales_delight:cherry_petal',
+      P: 'trailandtales_delight:cherry_petal',
       S: 'minecraft:sugar',
-      P: 'trailsandtales_delight:pie_crust'
+      P: 'trailandtales_delight:pie_crust'
     }
   );
 })
