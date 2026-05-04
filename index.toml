@@ -149,6 +149,10 @@ file = "kubejs/server_scripts/salt_drop_swap.js"
 hash = "7fe56f4aa9b3ecba39618a51d92be54dd79de29ce521a216df1bb133aa36a4a3"
 
 [[files]]
+file = "kubejs/server_scripts/sawmill_wood_compat_recipes.js"
+hash = "ca92ec2ce31fce60916797ae65e4bf880c028e61656de4e874bb467982a8509f"
+
+[[files]]
 file = "kubejs/startup_scripts/bedframe_item_registry.js"
 hash = "2b34e6f443966e61001fb8b6ae4178ef6c2e2a00d8630ca51f302f3b5a0eb924"
 
