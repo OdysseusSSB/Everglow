@@ -340,6 +340,11 @@ hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "c79e3a922498c4dbbecfa90c81534faf102ca9285bea9f10aef43b5994780739"
 metafile = true
@@ -692,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/pigsteel-forge.pw.toml"
 hash = "18dd7569d55901ea85ac08a35cf18097719703540ec8e587a1b14ea7275c99e0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
