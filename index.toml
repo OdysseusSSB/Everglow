@@ -10,7 +10,7 @@ hash = "60fd6a58d54d9fe2be3de5b64a52489b4f60c716e022aca0868a6593124a2982"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "e6519ef5eebda8373e725158120df56f1d635f2d4eab48c8f0c937b8f8477c37"
+hash = "35016a29b56ae3c3bd454034d79435ba687b45493a6bfaf20086a76ad5134246"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -22,7 +22,7 @@ hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "fc2f2294391bd75e757a6119fb7976d1cf049583edc805d3fe3dc85111c73b7c"
+hash = "756866e9e541624caa6840a7467249f85113d4df2a4cbcc0483d343dd8c08b98"
 
 [[files]]
 file = "config/item_obliterator.json5"
