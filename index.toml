@@ -415,11 +415,6 @@ hash = "6c762e64e4d4bb69ec9e59ddd7c6ac0c1bf7581eb157eb4cbbba4f5a890b970c"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "c3855a5011cc263726532999f35c8691db9fa60b9d470758dd826d25c29ed4cb"
-metafile = true
-
-[[files]]
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "98b56ff0c99da899ee115447cc0477e02a2d47fd27c4d8e08ca7d57f38e97133"
 metafile = true
@@ -662,6 +657,16 @@ metafile = true
 [[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "ca54ccd33453cf0b9a2572f54017119aa95e62d55dce68d610899afd213419fb"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "28b26418642839f65e37b042a599d0a4956d601219f5afe4e2de1dc0d42baba0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/W9C2CFxo/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "94d8744dc8fac0b68508eb398ba3c16ef83750b6bb21a917e112df43058a4a9cc4aefc798d2e2f9e0ca81755812a0b2e422c1631a60f651cee514c03e9a4fe60"
+
+[update]
+[update.modrinth]
+mod-id = "mEEGbEIu"
+version = "W9C2CFxo"
