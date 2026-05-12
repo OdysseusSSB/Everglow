@@ -1,0 +1,13 @@
+name = "Panda's Falling Trees"
+filename = "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/om4AFhqW/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "fe473f1cf369ca7d75dfea0bacafc55692b2b56fe4b352a501536cb757be5da572d8423baec5cb32906a73ee40c667b599209b0e540237ce2a584df657296b37"
+
+[update]
+[update.modrinth]
+mod-id = "i2kUe4lq"
+version = "om4AFhqW"
