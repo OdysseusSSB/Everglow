@@ -1,0 +1,13 @@
+name = "Infernal Expansion Redux"
+filename = "infernalexp-forge-1.20.1-0.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wiPmcmNp/versions/mWgWILM6/infernalexp-forge-1.20.1-0.3.7.jar"
+hash-format = "sha512"
+hash = "af0f7b02c401a02d57af5c721b01162b20ac4433be0badcdeaae47dcde17fe945c039ea93c11c1cbc17fe0d7fbbc1dd052f3efe7c59170d25a120347d5dddb4a"
+
+[update]
+[update.modrinth]
+mod-id = "wiPmcmNp"
+version = "mWgWILM6"

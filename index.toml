@@ -205,6 +205,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/astikorcarts-redux.pw.toml"
+hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "09c8d269cddf007e20e3c0a758fbfae25fc7f14f5aad6225d28b0570de30c037"
 metafile = true
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
+metafile = true
+
+[[files]]
+file = "mods/burrowers.pw.toml"
+hash = "bde781d5c3a812a28022b27d1e7ffa002f195dcd063c4c9c0b68d0067e723b33"
 metafile = true
 
 [[files]]
@@ -465,6 +475,11 @@ hash = "513dff304eaff520c5b25a5b245518c95053a58b4c3ca58c070a5ffa14e0c7bf"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
@@ -502,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "5c190b1a62a132464e35a534ec9e214d3c1ee94ea4169e93237ff5492b7fad03"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion-redux.pw.toml"
+hash = "f8998a0c1a9d91d73ea50a703161a1cd2a66bbd2fb3c4611d1a94d75bf16dad4"
 metafile = true
 
 [[files]]
@@ -720,6 +740,11 @@ hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "b727e9c00cb3dcd25508b398c3f12a72a5c28d96b5119d4cc38f518a86f855d4"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
@@ -815,6 +840,11 @@ hash = "168b3ee3fa2fe18f712c593d9d90e8b3a8a6a10564376af98bcc6f9719506641"
 metafile = true
 
 [[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "3e3dd49761c7fdf67a2ebbb4b5d3da6ad763a62b8b20164c0863e9dce05cc828"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
@@ -847,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/wfs-cave-overhaul.pw.toml"
 hash = "557ef18f5d114bbb074cc4828389b809099c44fb03a6067003fd4dd6f9e20904"
+metafile = true
+
+[[files]]
+file = "mods/wildaside.pw.toml"
+hash = "8f325143beebb1b0e9c25810643a9ddf00ba3405653400dfe4eed6ed17593cb0"
 metafile = true
 
 [[files]]

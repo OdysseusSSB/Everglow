@@ -1,0 +1,13 @@
+name = "Wild Aside"
+filename = "wildaside-2.2.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VL6tjnz/versions/pWF3j0wy/wildaside-2.2.5-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1ea99f98419875b8c233e01da0f0ee5e1905df8031844f2f0759dfcba842d68cb74f8f4343d62bbc9689b59528320e5dbeb349c5e0ed218e7307b452861a6019"
+
+[update]
+[update.modrinth]
+mod-id = "6VL6tjnz"
+version = "pWF3j0wy"
