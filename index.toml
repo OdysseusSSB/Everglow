@@ -14,11 +14,11 @@ hash = "35016a29b56ae3c3bd454034d79435ba687b45493a6bfaf20086a76ad5134246"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
-hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
+hash = "b9245c311a4d653e8583cda77cf87a7c5256db9f27d9d338d8e7a1d152118a11"
 
 [[files]]
 file = "config/forgery/features.ini"
@@ -90,19 +90,19 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "47fe6f0d256af9433f84965f3cdbca978bb5e500c7240cd47de6c21a7fc29a9c"
+hash = "d9aaa7b3743195f824f58b8a0e08eba34d94d26b65a808d617c8e18f3fbe13f2"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "f73a7a1283512abc6421071dba0c05f2560201ad314f31275a1a31e78945fce7"
+hash = "1021c2df6b4c1141fe18276bd0208fadb860fae7385d22759c23b1f7329d99fe"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "b0bc4e81f091c9911b667c2510f168f65e25d085d814973124aece0ce9ea25d5"
+hash = "e8cbbd0f140fd2e34a928f254ca6b448c9866917a42514434347f2bd90606fa8"
 
 [[files]]
 file = "kubejs/README.txt"
-hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/bedframe.png"
@@ -110,15 +110,15 @@ hash = "42b4da8f8a7dab7876faa0935c8ff9a2f671c8adaa5a6e0607a9d705ba8da5c6"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
-hash = "c7dca50ca8a08c8ff35fc52c133cdf3563f9faa283db67dfaf17e7569929060f"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "af35569fd1747f3e6bb048568651732d1649eb7e53e9d0a5d4e59f14f97fa9f9"
+hash = "18aecc2a4f25cfcefb05bf6b3bc81f03641c46006461ea19b9be0417c2d36d29"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "14f796d10027ee1e6da08cd6aa64e6aabd4fccb088006f69996ce33c27b36aeb"
+hash = "a860446ff53f57cb1b0e4d48c7f50427ad843117fd682f9afa54201d8d47c517"
 
 [[files]]
 file = "kubejs/server_scripts/bed_recipes.js"
@@ -134,7 +134,7 @@ hash = "21262e5d2e4a51bd884aefd01370bdc56fa67aa156998ffb5985d3a1a6a1175c"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
-hash = "85f40a37d0ca64308dbea2680b292369a8219c1539d614c1ccff23c773fc574f"
+hash = "17105a2b0a8cb92ea1817981a92182e6b9ff5af20922d16eb2ae75689b24ef3e"
 
 [[files]]
 file = "kubejs/server_scripts/rope_uses.js"
@@ -154,7 +154,7 @@ hash = "ca92ec2ce31fce60916797ae65e4bf880c028e61656de4e874bb467982a8509f"
 
 [[files]]
 file = "kubejs/startup_scripts/bedframe_item_registry.js"
-hash = "2b34e6f443966e61001fb8b6ae4178ef6c2e2a00d8630ca51f302f3b5a0eb924"
+hash = "3f0a68432e3e9c0ba17cfc7739e8d977682290a799c7ca1914032b9bf67baa49"
 
 [[files]]
 file = "licenses/Forgery"

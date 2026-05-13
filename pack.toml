@@ -1,12 +1,12 @@
 name = "Everglow"
 author = "OdysseusSSB"
-version = "0.2.3"
+version = "[Dev]"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5626d92af1ea7cc8f369537be8434bffc2d448e223cd0b8c357b9bcf52bfb021"
+hash = "452534c9ea306735b3a4c47e2a16e2bbb2c8e5a4e304bdb4402bb0fa05b409f6"
 
 [versions]
 forge = "47.4.20"
