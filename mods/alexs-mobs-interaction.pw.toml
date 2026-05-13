@@ -1,0 +1,13 @@
+name = "Alex's Mobs Interaction"
+filename = "alexsmobsinteraction-6.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cQPcBgTD/versions/vRv24IE6/alexsmobsinteraction-6.0-all.jar"
+hash-format = "sha512"
+hash = "6987482390297853ef93041938f507ad281557e689de9c93f6d5a5415d62db51b76e84fea4701da7269da516cd09304df88cb45ef72ecb24932c15bd7658bac7"
+
+[update]
+[update.modrinth]
+mod-id = "cQPcBgTD"
+version = "vRv24IE6"

@@ -175,6 +175,16 @@ hash = "6ba9d17ec3ca1fa50493826cb3496c5b194ed27d3396fc8974365b81844eadff"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs-interaction.pw.toml"
+hash = "21264fb5f052c240d71a36f6e014c91ce189d50ee8cd986bb8e42a96b31e29c4"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "a4dba57fcce3f41ba52e3ab28343b3165f021d9d363c693bed73a476769b5a85"
 metafile = true
