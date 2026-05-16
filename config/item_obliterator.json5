@@ -33,7 +33,8 @@
     "hearthandharvest:glow_berry_jam",
     "brewinandchewin:glow_berry_marmalade",
     "hearthandharvest:tree_tapper",
-    "hearthandharvest:universal_feed"
+    "hearthandharvest:universal_feed",
+    "alexsmobs:fish_oil"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
