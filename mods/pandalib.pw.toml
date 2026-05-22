@@ -1,13 +1,13 @@
 name = "PandaLib"
-filename = "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+filename = "pandalib-neoforge-1.21.1-0.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/W9C2CFxo/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/RyUlB24m/pandalib-neoforge-1.21.1-0.6.0.jar"
 hash-format = "sha512"
-hash = "94d8744dc8fac0b68508eb398ba3c16ef83750b6bb21a917e112df43058a4a9cc4aefc798d2e2f9e0ca81755812a0b2e422c1631a60f651cee514c03e9a4fe60"
+hash = "163eb53f16ec58fbad91aa95fe3870c7f29eb6de43a3b389e19cafed5ae7383f9237e7726584c920f7b3da7feef9bc93c47d254857e31a3c65046ab431b07ce4"
 
 [update]
 [update.modrinth]
 mod-id = "mEEGbEIu"
-version = "W9C2CFxo"
+version = "RyUlB24m"

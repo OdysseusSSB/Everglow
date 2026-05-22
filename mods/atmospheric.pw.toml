@@ -1,13 +1,13 @@
 name = "Atmospheric"
-filename = "atmospheric-1.20.1-6.1.1.jar"
+filename = "atmospheric-1.21.1-7.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U9sJOFmJ/versions/B9fN8ZSq/atmospheric-1.20.1-6.1.1.jar"
+url = "https://cdn.modrinth.com/data/U9sJOFmJ/versions/XIvPRE4O/atmospheric-1.21.1-7.0.1.jar"
 hash-format = "sha512"
-hash = "ea74aaf7bbabc0745e31a01570db5c94f59004d8254641bb90cd599f639c354722108481663a479dd8d024581ca9cb890ab024ef8143e082c0711c2b6fa538fc"
+hash = "137a56f031a303116dd9245cde3b20047a523fa3215df3e8ab51590249a469a60b1e57536fdb578b6feafc89f4075f85ccd76af52dcf181b6b2df032dec7aafb"
 
 [update]
 [update.modrinth]
 mod-id = "U9sJOFmJ"
-version = "B9fN8ZSq"
+version = "XIvPRE4O"

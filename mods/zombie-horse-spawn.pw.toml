@@ -1,13 +1,13 @@
 name = "Zombie Horse Spawn"
-filename = "zombiehorsespawn-1.20.1-5.2.jar"
+filename = "zombiehorsespawn-1.21.1-5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/owDBGfRd/versions/dKV5HYJi/zombiehorsespawn-1.20.1-5.2.jar"
+url = "https://cdn.modrinth.com/data/owDBGfRd/versions/yJKT8zzG/zombiehorsespawn-1.21.1-5.2.jar"
 hash-format = "sha512"
-hash = "78f5c59715f91819719de35720151d5c8e9523c891b35f8665a027c925a2be088b84104652d9f49e92fe1c6906107ee51002fba23677497da3d415183854c56f"
+hash = "154c8733323c27cf2ffc7c5e6c438863e34a923a0b728d439e0a88d3a781302ce4d12cb37f1ef87b739d107ac90dc0163eedf29af41b449f2abe0acb2a9b92c2"
 
 [update]
 [update.modrinth]
 mod-id = "owDBGfRd"
-version = "dKV5HYJi"
+version = "yJKT8zzG"

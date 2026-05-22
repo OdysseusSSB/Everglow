@@ -1,13 +1,13 @@
 name = "Comfortable Campfires"
-filename = "comfortable-campfires-1.1.2+1.19.2.jar"
+filename = "comfortable-campfires-1.1.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lOZBoyio/versions/rbf5I3X0/comfortable-campfires-1.1.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/lOZBoyio/versions/19Ujuvrx/comfortable-campfires-1.1.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0aeafe96aeba829f52b88d743551e29b984bc4351c85a8241d50edc7842cccf0ab35b920a6612e6a9b99e45dc8e98ae5e6fbcd5f9b76721d2dea98c4b971c41e"
+hash = "b5c326809fe33a7dbdf0a753bfc1e3bae8f474e14de1785b7c7955446ec6ef09d61cfa061f2c626e46aefb1784bab24f527111fe44115e7e88c2712e33845e9a"
 
 [update]
 [update.modrinth]
 mod-id = "lOZBoyio"
-version = "rbf5I3X0"
+version = "19Ujuvrx"

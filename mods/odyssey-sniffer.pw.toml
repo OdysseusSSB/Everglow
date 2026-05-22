@@ -1,13 +1,13 @@
 name = "Odyssey Sniffer"
-filename = "odyssey_sniffer-1.20.1-forge-2.0.0.jar"
+filename = "odyssey_sniffer-1.21.1-neoforge-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EeEBORaM/versions/2D7Wjw54/odyssey_sniffer-1.20.1-forge-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/EeEBORaM/versions/BDJV8gTT/odyssey_sniffer-1.21.1-neoforge-2.0.0.jar"
 hash-format = "sha512"
-hash = "0a3e2e05997efe90630c58ff2719450cdf0107dbf516f10b373117ba3344802348825d8a9c0e41a4b1b7a2154a39a82cd5d4f4f6ca692255f196a8d190767f0f"
+hash = "641b0638eccdf5d30423c824c47b5f8c252c27dceeb81be5a1b11f1363f401aebaf256e257d5882ea75570117bcf20307c9471c36b84749c606acc856393a72b"
 
 [update]
 [update.modrinth]
 mod-id = "EeEBORaM"
-version = "2D7Wjw54"
+version = "BDJV8gTT"

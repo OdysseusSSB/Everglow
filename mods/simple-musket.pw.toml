@@ -1,13 +1,13 @@
 name = "Simple Musket"
-filename = "simplemusket-forge-1.20.1-1.9.2.jar"
+filename = "simplemusket-neoforge-1.21.1-1.9.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iqZQWhrH/versions/UqTiIPUz/simplemusket-forge-1.20.1-1.9.2.jar"
+url = "https://cdn.modrinth.com/data/iqZQWhrH/versions/Ypu37WWN/simplemusket-neoforge-1.21.1-1.9.2.jar"
 hash-format = "sha512"
-hash = "6fcb51927302f5f4a5c0e73701f6143220841874581d275595c95d113cf70b1807da64c1d707f7f1051ae2c2d6e0368aec57afbb93915ca85933a3c0e4edc27e"
+hash = "5c8350438175b35a578b318376b224d647ae3dc800a6c288283e06800f2401c1e309d37cfd3f1506119bca68e44651da32412be24b7599cde7861a54a7022ab0"
 
 [update]
 [update.modrinth]
 mod-id = "iqZQWhrH"
-version = "UqTiIPUz"
+version = "Ypu37WWN"

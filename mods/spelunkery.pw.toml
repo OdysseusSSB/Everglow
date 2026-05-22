@@ -1,13 +1,13 @@
 name = "Spelunkery"
-filename = "spelunkery-1.20.1-0.3.16-forge.jar"
+filename = "spelunkery-1.21.1-0.4.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/krskFMfA/versions/jW8j0zdc/spelunkery-1.20.1-0.3.16-forge.jar"
+url = "https://cdn.modrinth.com/data/krskFMfA/versions/zesprGoi/spelunkery-1.21.1-0.4.1-neoforge.jar"
 hash-format = "sha512"
-hash = "ad89ff6fc6f3734725fedef065b43bda848766fe5ea5cde83149e3f47421f653f64e9eaececcbc79e25587a4e01523062ccc7dbcdaaf1a15f20c0aa1a8f3b8ab"
+hash = "d9085cfef65d0d4115b3abb131d30ea28b74825e447099f490816901367f47d47fc92dc6a7913d1417f6e4ff60f2e4eb9e1f81e224c123720279965a207ad910"
 
 [update]
 [update.modrinth]
 mod-id = "krskFMfA"
-version = "jW8j0zdc"
+version = "zesprGoi"
