@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/blockswap/block_swap.json5"
-hash = "5f4f35728584f9f542a7f4d9be1376b1ee1d29b3eccb681cee0f936e963af599"
-
-[[files]]
 file = "config/chloride-client.json"
 hash = "60fd6a58d54d9fe2be3de5b64a52489b4f60c716e022aca0868a6593124a2982"
 
@@ -95,6 +91,10 @@ metafile = true
 [[files]]
 file = "config/quark-common.toml"
 hash = "47fe6f0d256af9433f84965f3cdbca978bb5e500c7240cd47de6c21a7fc29a9c"
+
+[[files]]
+file = "config/reliable_replacer/swapper.json5"
+hash = "5f4f35728584f9f542a7f4d9be1376b1ee1d29b3eccb681cee0f936e963af599"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -226,11 +226,6 @@ metafile = true
 [[files]]
 file = "mods/better-foliage-renewed.pw.toml"
 hash = "01fcacd1e98c9c7e4e78dde9991229c58b2bbe36da5f5beda5001c5aa19f8e72"
-metafile = true
-
-[[files]]
-file = "mods/block-swap.pw.toml"
-hash = "c89a994dc0964243562fe3e3d5050587db2057a006be99bee11773d8b37d1d5a"
 metafile = true
 
 [[files]]
@@ -711,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "e2d9083e10e4e6a200258b9412c7ecd40addc87de14620105a93f484fe4a3fd3"
+metafile = true
+
+[[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "088b4db54168e69a4843cad9c85c5beb53c22a48f5fb7d5f420a4c8b77085dae"
 metafile = true
 
 [[files]]
