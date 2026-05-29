@@ -1,6 +1,6 @@
 name = "YUNG's Menu Tweaks"
 filename = "YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Hcy2DFKF/versions/OB9hQTpQ/YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar"

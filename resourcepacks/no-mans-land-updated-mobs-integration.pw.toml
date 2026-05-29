@@ -1,0 +1,13 @@
+name = "No Man's Land: Updated Mobs Integration"
+filename = "NML+UM.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rKnx25WN/versions/sWM22bGf/NML%2BUM.zip"
+hash-format = "sha512"
+hash = "3c84c6d2e95606cd69fad0c438b175308e1c5756e90f65c4dac7c56e3085ac37f100a18cbfa557bd7108063a98fa1fd781d0e63020d756084c56bb2719aa2750"
+
+[update]
+[update.modrinth]
+mod-id = "rKnx25WN"
+version = "sWM22bGf"

@@ -1,0 +1,13 @@
+name = "Updated Mobs"
+filename = "Updated Mobs 1.21.5 v.2.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BKWKyHqF/versions/ZBcemrR7/Updated%20Mobs%201.21.5%20v.2.5.zip"
+hash-format = "sha512"
+hash = "3b420581ec1b678b63445c839d54c99215c1b7df7ea9d783f1344e34650bd5157f47254ea27a9638fdcd414ef65c94c4a01226dbcc04e784021cf88ce048fe74"
+
+[update]
+[update.modrinth]
+mod-id = "BKWKyHqF"
+version = "ZBcemrR7"

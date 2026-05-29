@@ -1,0 +1,13 @@
+name = "Abnormals Bare Bones"
+filename = "Abnormals Bare Bones.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ahEgECuN/versions/i4mw7ivG/Abnormals%20Bare%20Bones.zip"
+hash-format = "sha512"
+hash = "b7f657cbb46d9cbe28f03973af4005ae91fab02de3967df4abdd2897f33440c20694d971decae244390ae48f5e1bd924377eb7b14890c630763df384574a9d5d"
+
+[update]
+[update.modrinth]
+mod-id = "ahEgECuN"
+version = "i4mw7ivG"

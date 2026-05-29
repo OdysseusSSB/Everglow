@@ -1,6 +1,6 @@
 name = "Skeleton Horse Spawn"
 filename = "skeletonhorsespawn-1.21.1-4.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcqNoW8j/versions/TRZS86ub/skeletonhorsespawn-1.21.1-4.1.jar"
