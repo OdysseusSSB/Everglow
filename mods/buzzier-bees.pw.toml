@@ -1,13 +1,13 @@
 name = "Buzzier Bees"
-filename = "buzzier_bees-1.20.1-6.0.1.jar"
+filename = "buzzier_bees-1.21.1-7.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b7vOFSIp/versions/6jop5A7X/buzzier_bees-1.20.1-6.0.1.jar"
+url = "https://cdn.modrinth.com/data/b7vOFSIp/versions/Y12rtT96/buzzier_bees-1.21.1-7.0.1.jar"
 hash-format = "sha512"
-hash = "7a84e9920286dd6647d2440672a5c501bc73cfc2c09a7c437da6320b7ee9e50d982b35ccb77fe28ce66946b89c99bdf96af11e29befdcdf621a0cc1247eddb62"
+hash = "eac6e3ab7b25d23f6dd4676a35a68912e89ad03fe2cac1688065747a05bf04d08466fc9013131478ec0824600c6738b652dc269125c16a0d22e057d15c3fd2cf"
 
 [update]
 [update.modrinth]
 mod-id = "b7vOFSIp"
-version = "6jop5A7X"
+version = "Y12rtT96"

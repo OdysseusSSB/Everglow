@@ -1,13 +1,13 @@
 name = "Additional Placements"
-filename = "[1.20.1 Forge] Additional Placements 3.0.1.jar"
+filename = "[1.21-1.21.1 NeoForge] Additional Placements 3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/jVlJI0bV/%5B1.20.1%20Forge%5D%20Additional%20Placements%203.0.1.jar"
+url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/ykbYfnDs/%5B1.21-1.21.1%20NeoForge%5D%20Additional%20Placements%203.0.1.jar"
 hash-format = "sha512"
-hash = "dd17061d3453a7b178e6ffadaa53c62104b251a52df154a795f90a3e4750f4cdbb3ab3e46eb1ba205630b023ddb7e05d8f1b511b8813153709dfb35134521e1b"
+hash = "82f8f7f9ba1881df73cf9d83f9116846bd55694a26a6887b6b411d3d1c74b2a666f3a26ab989691604949d6c60a5dc380529a9a9fa53e025ea893a7f523139e6"
 
 [update]
 [update.modrinth]
 mod-id = "f5TwOKkb"
-version = "jVlJI0bV"
+version = "ykbYfnDs"

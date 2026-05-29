@@ -1,13 +1,13 @@
 name = "River Redux"
-filename = "riverredux-0.3.1.jar"
-side = "both"
+filename = "riverredux-forge-0.4.0.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/dhhdnacC/versions/Tjc3ivPe/riverredux-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/dhhdnacC/versions/lTnkHZOv/riverredux-forge-0.4.0.jar"
 hash-format = "sha512"
-hash = "1d8829abfe3ec5fcc9311c0a2973628c6d48292e21ad7f1ce571dc07360f310fc39510e9fc319899df250291431da17b185d4e8ed5f8515864a281d80709f5b0"
+hash = "641e13575c581a3969d4c1cfc819ac5cdeacf46e5a039a803060fedefd2ac0b8defe24313a7e79b50e28b51e0348928797567c933dce5e71312f10dec7afaf1a"
 
 [update]
 [update.modrinth]
 mod-id = "dhhdnacC"
-version = "Tjc3ivPe"
+version = "lTnkHZOv"

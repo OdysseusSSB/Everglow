@@ -1,13 +1,13 @@
 name = "Allurement"
-filename = "allurement-1.20.1-4.0.0.jar"
+filename = "allurement-1.21.1-5.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eIO12l2t/versions/qc1hOxYD/allurement-1.20.1-4.0.0.jar"
+url = "https://cdn.modrinth.com/data/eIO12l2t/versions/LPWZjZvj/allurement-1.21.1-5.0.2.jar"
 hash-format = "sha512"
-hash = "20d244fcf81b232d9cf917d2ec303e324cdb8a551835fabad8dec549042ad784996cc1caa159e1802a6746eb96371a88864deeed8a0dcc539df5d36978904f13"
+hash = "0419dae4a80dcb62549ce46fa3610d68e31ab2a65c11896c8c3509918287761020a3d1bc1006cc396f1db5af1a583c794ce92f3d7e0c9f91a267a791936f2ed9"
 
 [update]
 [update.modrinth]
 mod-id = "eIO12l2t"
-version = "qc1hOxYD"
+version = "LPWZjZvj"

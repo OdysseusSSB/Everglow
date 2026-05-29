@@ -1,0 +1,13 @@
+name = "Jaden's Nether Expansion Texture Compat"
+filename = "JNEcompat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8znF7IPo/versions/p5U1zOt9/JNEcompat.zip"
+hash-format = "sha512"
+hash = "b2134e2351f80b423450b2b0ce0bebd3be6e09dfd2e14c4d07a5d604c458c603ed44039a421a3841a7d03435c697c61afefee04f0457e7916823ba7980288287"
+
+[update]
+[update.modrinth]
+mod-id = "8znF7IPo"
+version = "p5U1zOt9"
