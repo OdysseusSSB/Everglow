@@ -118,6 +118,10 @@ hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e629a2a2aa88a451a1eb60e47c35f3005a73c4edb6838d3d0678a480fa472ab3"
+
+[[files]]
 file = "config/reliable_replacer/swapper.json5"
 hash = "5f4f35728584f9f542a7f4d9be1376b1ee1d29b3eccb681cee0f936e963af599"
 
