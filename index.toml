@@ -30,7 +30,7 @@ hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "8b5245f53e15feb0f1a1d673481ab89c7d514cae8d05c704500cc3e347dadc21"
+hash = "15e16b1536741ffea8e3ba3d7da74144eb5b851d82c434d900bca92f9ba984e9"
 
 [[files]]
 file = "config/paxi/datapacks/cascades-cool-biomes.pw.toml"
@@ -53,8 +53,8 @@ hash = "78058374f9b719d993f90f9d8ade40c1479129fed97ff66c5c1a3ce2841e8ea0"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/william-wythers-overhauled-overworld-(datapack).pw.toml"
-hash = "bd03fa430bb8b864e5d39a254f8c3d5dc0d64f65c4a1d90e49316c42edb853b9"
+file = "config/paxi/datapacks/supplementaries-compat.pw.toml"
+hash = "992c35a183db3463058a3671ed6d168f66e22cfca28f8e05b58755e4a7f81728"
 metafile = true
 
 [[files]]
@@ -778,6 +778,16 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
