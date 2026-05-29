@@ -29,18 +29,27 @@ file = "config/map_atlases-common.toml"
 hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "8b5245f53e15feb0f1a1d673481ab89c7d514cae8d05c704500cc3e347dadc21"
+
+[[files]]
 file = "config/paxi/datapacks/cascades-cool-biomes.pw.toml"
 hash = "dd8380e15e9016f1c4f45c7f1eb154fae3d72b3b162a34396bd5e0d860f32fe3"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/continents.pw.toml"
-hash = "3b09047e919cedab7efc86db2ddfb751c6b4028abe090223789a925ed15b0de3"
+file = "config/paxi/datapacks/farmers-delight-cutting-compat.pw.toml"
+hash = "13f896684d09f3516873ffff66ffdbe4c9c572da7fe5027b9f1d88249acb3127"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/geophilic.pw.toml"
+hash = "b436565be0ccc20945fe7a7aabece0663b85c54cc1a61e42fbb5454714411594"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/hybrid-beta.pw.toml"
-hash = "207404b1556519402b119dddd0ac7bead0b04f113960a2075b946ddaea2c3ab1"
+hash = "78058374f9b719d993f90f9d8ade40c1479129fed97ff66c5c1a3ce2841e8ea0"
 metafile = true
 
 [[files]]
