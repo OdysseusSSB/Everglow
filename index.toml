@@ -395,6 +395,11 @@ hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "a79b727d670f788e9004e80338006bd3f50f47a7f107bf89b3d7c11524c01dd4"
 metafile = true
@@ -550,11 +555,6 @@ hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
 metafile = true
 
 [[files]]
-file = "mods/no-mans-land.pw.toml"
-hash = "34d83900eb19f1731401597e73536efb90e1bcf2745424ad4d33abfd149aef42"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "10e2d5565e299d0fafa79e7c949961bf692d9a15b5de146b2905ea7df0987d29"
 metafile = true
@@ -657,11 +657,6 @@ metafile = true
 [[files]]
 file = "mods/river-redux.pw.toml"
 hash = "32d66d8218965378709421e336021c117c0f3cb32282967d85e071d40a8c5e7a"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
 metafile = true
 
 [[files]]
