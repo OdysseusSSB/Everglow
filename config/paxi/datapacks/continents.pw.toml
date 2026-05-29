@@ -1,0 +1,13 @@
+name = "Continents"
+filename = "Continents_v1.1.13.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/RI9abJur/Continents_v1.1.13.zip"
+hash-format = "sha512"
+hash = "5483c1f887fd06b8967318a3f2d44d5b1fb3a2cb58da1e6f1fc81b545ef351d35769dbec854daa2de0f985036cdfc82caf9f9f83e6f4e23f2a151b4d7b15c9dc"
+
+[update]
+[update.modrinth]
+mod-id = "bQ5TJA1E"
+version = "RI9abJur"

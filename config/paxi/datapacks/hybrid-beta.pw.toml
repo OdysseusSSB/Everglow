@@ -1,0 +1,13 @@
+name = "Cascades"
+filename = "cascades-v1.0.6-26.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/RVBI5AA6/cascades-v1.0.6-26.1.zip"
+hash-format = "sha512"
+hash = "9a2176c973130afcd26a8a4f43c067d9576cb06a3fb4561988e09710e5166e53d9f27eb8964490c5d26bf986e137abee1e7f927592df5454822191f9d93d769a"
+
+[update]
+[update.modrinth]
+mod-id = "Jmx5kJiS"
+version = "RVBI5AA6"

@@ -29,6 +29,26 @@ file = "config/map_atlases-common.toml"
 hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
+file = "config/paxi/datapacks/cascades-cool-biomes.pw.toml"
+hash = "dd8380e15e9016f1c4f45c7f1eb154fae3d72b3b162a34396bd5e0d860f32fe3"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/continents.pw.toml"
+hash = "3b09047e919cedab7efc86db2ddfb751c6b4028abe090223789a925ed15b0de3"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/hybrid-beta.pw.toml"
+hash = "207404b1556519402b119dddd0ac7bead0b04f113960a2075b946ddaea2c3ab1"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/william-wythers-overhauled-overworld-(datapack).pw.toml"
+hash = "bd03fa430bb8b864e5d39a254f8c3d5dc0d64f65c4a1d90e49316c42edb853b9"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
 hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
 metafile = true

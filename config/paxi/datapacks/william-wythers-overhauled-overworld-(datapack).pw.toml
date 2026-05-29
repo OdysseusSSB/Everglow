@@ -1,0 +1,13 @@
+name = "William Wythers' Overhauled Overworld (Datapack)"
+filename = "William Wythers' Overhauled Overworld v2.6.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4pbhwMQz/versions/ZPiU81rJ/William%20Wythers%27%20Overhauled%20Overworld%20v2.6.0.zip"
+hash-format = "sha512"
+hash = "851687068282245e460a4b797faa3dd774d8cd30fd49604be7c44eb2774eccd17ced0e0122210bdd0a6199b2086c73ca9e747a626e72b1dd9066f79d2e73ba9e"
+
+[update]
+[update.modrinth]
+mod-id = "4pbhwMQz"
+version = "ZPiU81rJ"
