@@ -29,10 +29,6 @@ file = "config/map_atlases-common.toml"
 hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
-file = "config/mixin_config_override.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
 hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
 metafile = true
@@ -91,10 +87,6 @@ metafile = true
 file = "config/paxi/resourcepacks/os-colorful-grasses.pw.toml"
 hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
-
-[[files]]
-file = "config/quark-common.toml"
-hash = "47fe6f0d256af9433f84965f3cdbca978bb5e500c7240cd47de6c21a7fc29a9c"
 
 [[files]]
 file = "config/reliable_replacer/swapper.json5"
