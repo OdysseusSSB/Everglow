@@ -187,8 +187,18 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/astikorcarts-redux.pw.toml"
+hash = "ae56960397cf0e01f21b448093590643ad70bb390da44732ca46dc5261f4d536"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
 metafile = true
 
 [[files]]
@@ -199,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "eca8266d3037451685da7d3aacc0fc4d17f9caafad60d7671fecf14880f46335"
+metafile = true
+
+[[files]]
+file = "mods/better-copper-armor-and-tools.pw.toml"
+hash = "ce7b5276df08c47d1fb46155c24be2fbd8aa577a5aaa56ba5208d17527e4e2d8"
 metafile = true
 
 [[files]]
@@ -497,6 +512,11 @@ hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "88669a9f7da5bc6cbdef599dcbcc680df8b93120c383f6d1f65bbd30f05d5d01"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "13481133d139f134bd3407983e29f86df835ff66bacb013d9d43e14f155241f4"
 metafile = true
@@ -632,6 +652,11 @@ hash = "e2d9083e10e4e6a200258b9412c7ecd40addc87de14620105a93f484fe4a3fd3"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "c2e9b7324f1bdc58a32843a32d6ccc8b000119335a6aabf4c59dab0d3ee1c397"
+metafile = true
+
+[[files]]
 file = "mods/redomesticate.pw.toml"
 hash = "a30fd185107b9879940bda51f70c6374020fc6644b67661eed722ec868c0c5fa"
 metafile = true
@@ -724,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "d763ba5877e694cd7372af7caac9aacb3382f64767cf6ed64a4b97ecde5bc4a1"
 metafile = true
 
 [[files]]

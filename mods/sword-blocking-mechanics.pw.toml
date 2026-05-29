@@ -1,0 +1,13 @@
+name = "Sword Blocking Mechanics"
+filename = "SwordBlockingMechanics-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4v5Na7b9/versions/JwYLe1Y0/SwordBlockingMechanics-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "907b404a3d0b61dd77db6e9e6d9e64205135bd68ecd8b15cd87f8acc62aef2b57f7b995ee59e0965a1cc0bed10ac9cb13ce198630c42b270b64f3800253e03e9"
+
+[update]
+[update.modrinth]
+mod-id = "4v5Na7b9"
+version = "JwYLe1Y0"
