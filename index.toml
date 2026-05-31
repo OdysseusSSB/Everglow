@@ -29,6 +29,30 @@ file = "config/map_atlases-common.toml"
 hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "e962598ccf7b803bb3128cd31b2a60e2811f9e9d971c13fd69edc874b8834adf"
+
+[[files]]
+file = "config/paxi/datapacks/farmers-delight-cutting-compat.pw.toml"
+hash = "13f896684d09f3516873ffff66ffdbe4c9c572da7fe5027b9f1d88249acb3127"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/geophilic.pw.toml"
+hash = "b436565be0ccc20945fe7a7aabece0663b85c54cc1a61e42fbb5454714411594"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/hybrid-beta.pw.toml"
+hash = "78058374f9b719d993f90f9d8ade40c1479129fed97ff66c5c1a3ce2841e8ea0"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/supplementaries-compat.pw.toml"
+hash = "992c35a183db3463058a3671ed6d168f66e22cfca28f8e05b58755e4a7f81728"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/banner-pattern-clarity.pw.toml"
 hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
 metafile = true
@@ -51,6 +75,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/cozy-bees.pw.toml"
 hash = "1877957be451142ba8d2286892256059482f6e6374501aa296feb5f7b34572d7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/enchantment-descriptions-compat.pw.toml"
+hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
 metafile = true
 
 [[files]]
@@ -79,6 +108,11 @@ hash = "b7bced38e6ab7ab46d56c420ae7bbcb5e8d69b2857f952ee9c749b07ece0494e"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/jadens-nether-expansion-texture-compat.pw.toml"
+hash = "4c076277b4264cc7d32b2f7c0dd4ee69facb5c7b343c96e58ccb2ab3250874fc"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/netherrack-resurrected.pw.toml"
 hash = "2b6d2eaff02d9b7061ffde114969154abbe1112816947eef95b422dd16756ec4"
 metafile = true
@@ -87,6 +121,10 @@ metafile = true
 file = "config/paxi/resourcepacks/os-colorful-grasses.pw.toml"
 hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3b4efeff7210b4653a2667e7f781ace5139f74961877addcd082f3687b5c2745"
 
 [[files]]
 file = "config/reliable_replacer/swapper.json5"
@@ -207,8 +245,18 @@ hash = "093abe6db61cc854c7bcd46a3e0bec69fb03af507a8afcc3fdf25e1a58aa6aa6"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "eca8266d3037451685da7d3aacc0fc4d17f9caafad60d7671fecf14880f46335"
+metafile = true
+
+[[files]]
+file = "mods/better-copper-armor-and-tools.pw.toml"
+hash = "ce7b5276df08c47d1fb46155c24be2fbd8aa577a5aaa56ba5208d17527e4e2d8"
 metafile = true
 
 [[files]]
@@ -259,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/cerbons-better-beacons.pw.toml"
 hash = "5c92ca1ecca22abcb1c7dd8333042d2a5b5c5259fdcc44ebb497cd1859606460"
-metafile = true
-
-[[files]]
-file = "mods/chloride.pw.toml"
-hash = "1d2eb56d14f6c730adf571d452f204ba146e1ae8c7110d61f41458f34659832d"
 metafile = true
 
 [[files]]
@@ -319,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "10fed87e36213ae1992bb334994d59ff972de8598b32821ab2017f29df2b24fc"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
@@ -384,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
+metafile = true
+
+[[files]]
+file = "mods/fancy-toasts.pw.toml"
+hash = "ea4d8e711ad4fcb5589d6a9fbc5c46d86dfc9c6fcb0c4b74ef6cebcfc3c23065"
 metafile = true
 
 [[files]]
@@ -647,6 +700,11 @@ hash = "e2d9083e10e4e6a200258b9412c7ecd40addc87de14620105a93f484fe4a3fd3"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "c2e9b7324f1bdc58a32843a32d6ccc8b000119335a6aabf4c59dab0d3ee1c397"
+metafile = true
+
+[[files]]
 file = "mods/redomesticate.pw.toml"
 hash = "a30fd185107b9879940bda51f70c6374020fc6644b67661eed722ec868c0c5fa"
 metafile = true
@@ -664,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/river-redux.pw.toml"
 hash = "32d66d8218965378709421e336021c117c0f3cb32282967d85e071d40a8c5e7a"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "9e060b9489a2092a469c0c4f9859395b8bb826329aae42ab99084fa70829f640"
 metafile = true
 
 [[files]]
@@ -717,16 +780,6 @@ hash = "918104735fe4da7e223394b5f76c0f063178b34e653fab7135ce451fd08d0746"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
-metafile = true
-
-[[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "c4910628e777aaa2e863f8d5b45cfcadc24e5faff1459a739d5be03d2d9285cd"
 metafile = true
@@ -739,6 +792,21 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "d763ba5877e694cd7372af7caac9aacb3382f64767cf6ed64a4b97ecde5bc4a1"
 metafile = true
 
 [[files]]
@@ -849,33 +917,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/abnormals-bare-bones.pw.toml"
-hash = "cac3cc3c3a60cbbe5cf713a3a3dfee4a4c22009bad421fb4b911ddf92a6bc6aa"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bare-bones.pw.toml"
-hash = "4e07890bec25eadb6a671528dce288e5017f427191b178cb8d6373df192c4d6e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
-hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
-metafile = true
-
-[[files]]
-file = "resourcepacks/jadens-nether-expansion-texture-compat.pw.toml"
-hash = "4c076277b4264cc7d32b2f7c0dd4ee69facb5c7b343c96e58ccb2ab3250874fc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/no-mans-land-updated-mobs-integration.pw.toml"
-hash = "80b41cbe3d9ad8a151cc5c4953ea68b162a1055a7bf08e1e139668576af4c471"
-metafile = true
-
-[[files]]
-file = "resourcepacks/updated-mobs.pw.toml"
-hash = "fd1f90cc1f5c4514451c82bac0a80126f94e3a225e17674c96d75dc593f61739"
-metafile = true

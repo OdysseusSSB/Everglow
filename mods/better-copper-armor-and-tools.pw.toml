@@ -1,0 +1,13 @@
+name = "Better Copper / Armor and Tools"
+filename = "BetterCopper-neoforge-1.21-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b6GPgDjM/versions/NDbKwiP7/BetterCopper-neoforge-1.21-1.3.jar"
+hash-format = "sha512"
+hash = "977714cc530f02afd3ca6d5b16a8526aefaa1713965aba87774f84781f56f0d0e893931e82893f61c9bab70b268b5451856ae7c240d9b645e3df70e9eec293e1"
+
+[update]
+[update.modrinth]
+mod-id = "b6GPgDjM"
+version = "NDbKwiP7"

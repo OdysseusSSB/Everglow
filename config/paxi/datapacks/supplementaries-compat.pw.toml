@@ -1,0 +1,13 @@
+name = "Supplementaries Compat"
+filename = "Supplementaries Compat 1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dlx4kLtI/versions/w7gR3eQ5/Supplementaries%20Compat%201.0.zip"
+hash-format = "sha512"
+hash = "0b168d531886970344912881cbb519ddd55ed3c4abb34dd20a3c2f61ef11ef0d00e9d52cdd75cc2a2d200988c2a5d4dc40eb3fc9ac8e2fe68206ed650f01c5bb"
+
+[update]
+[update.modrinth]
+mod-id = "dlx4kLtI"
+version = "w7gR3eQ5"
