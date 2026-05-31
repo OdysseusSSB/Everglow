@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e629a2a2aa88a451a1eb60e47c35f3005a73c4edb6838d3d0678a480fa472ab3"
+hash = "3b4efeff7210b4653a2667e7f781ace5139f74961877addcd082f3687b5c2745"
 
 [[files]]
 file = "config/reliable_replacer/swapper.json5"
