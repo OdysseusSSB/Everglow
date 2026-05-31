@@ -33,11 +33,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "15e16b1536741ffea8e3ba3d7da74144eb5b851d82c434d900bca92f9ba984e9"
 
 [[files]]
-file = "config/paxi/datapacks/cascades-cool-biomes.pw.toml"
-hash = "dd8380e15e9016f1c4f45c7f1eb154fae3d72b3b162a34396bd5e0d860f32fe3"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/farmers-delight-cutting-compat.pw.toml"
 hash = "13f896684d09f3516873ffff66ffdbe4c9c572da7fe5027b9f1d88249acb3127"
 metafile = true
