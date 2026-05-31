@@ -30,7 +30,7 @@ hash = "3eb6b1891bd66c397ffad7edb2270172a92f3dc4036a6f5b6fc3773d98687fdd"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "15e16b1536741ffea8e3ba3d7da74144eb5b851d82c434d900bca92f9ba984e9"
+hash = "e962598ccf7b803bb3128cd31b2a60e2811f9e9d971c13fd69edc874b8834adf"
 
 [[files]]
 file = "config/paxi/datapacks/farmers-delight-cutting-compat.pw.toml"
@@ -78,6 +78,11 @@ hash = "1877957be451142ba8d2286892256059482f6e6374501aa296feb5f7b34572d7"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/enchantment-descriptions-compat.pw.toml"
+hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/fresh-flower-pots.pw.toml"
 hash = "b7bced38e6ab7ab46d56c420ae7bbcb5e8d69b2857f952ee9c749b07ece0494e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/jadens-nether-expansion-texture-compat.pw.toml"
+hash = "4c076277b4264cc7d32b2f7c0dd4ee69facb5c7b343c96e58ccb2ab3250874fc"
 metafile = true
 
 [[files]]
@@ -897,33 +907,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/abnormals-bare-bones.pw.toml"
-hash = "cac3cc3c3a60cbbe5cf713a3a3dfee4a4c22009bad421fb4b911ddf92a6bc6aa"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bare-bones.pw.toml"
-hash = "4e07890bec25eadb6a671528dce288e5017f427191b178cb8d6373df192c4d6e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
-hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
-metafile = true
-
-[[files]]
-file = "resourcepacks/jadens-nether-expansion-texture-compat.pw.toml"
-hash = "4c076277b4264cc7d32b2f7c0dd4ee69facb5c7b343c96e58ccb2ab3250874fc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/no-mans-land-updated-mobs-integration.pw.toml"
-hash = "80b41cbe3d9ad8a151cc5c4953ea68b162a1055a7bf08e1e139668576af4c471"
-metafile = true
-
-[[files]]
-file = "resourcepacks/updated-mobs.pw.toml"
-hash = "fd1f90cc1f5c4514451c82bac0a80126f94e3a225e17674c96d75dc593f61739"
-metafile = true
