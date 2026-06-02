@@ -210,6 +210,11 @@ hash = "3cf42a50b82f08f77419d55188b2d0e8916792eca0021dc5a34a5bc8714652c8"
 metafile = true
 
 [[files]]
+file = "mods/alterna.pw.toml"
+hash = "a5830f7aed8994b082cd4905e38b010805a47c25f4014dc00000025f367aaf35"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
