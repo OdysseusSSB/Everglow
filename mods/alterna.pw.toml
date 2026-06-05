@@ -1,0 +1,13 @@
+name = "Alterna"
+filename = "alterna-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcjLZpAb/versions/Ds7hIVZq/alterna-1.0.2.jar"
+hash-format = "sha512"
+hash = "a4ce63ce953c64fc328e051eb53f204387042f58aaef6e9a6bafd7aa14a40fe6662a7db2d441c4f8b5693c965831552d9c9b2dae4056512eba06c86a08a03052"
+
+[update]
+[update.modrinth]
+mod-id = "NcjLZpAb"
+version = "Ds7hIVZq"

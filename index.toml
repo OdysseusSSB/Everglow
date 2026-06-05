@@ -5,20 +5,12 @@ file = "config/chloride-client.json"
 hash = "60fd6a58d54d9fe2be3de5b64a52489b4f60c716e022aca0868a6593124a2982"
 
 [[files]]
-file = "config/fallingtree.json"
-hash = "35016a29b56ae3c3bd454034d79435ba687b45493a6bfaf20086a76ad5134246"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "d772718d9f190247a371b2adbff9abeaaf1513a2e3b6e79a1b52e259a891d356"
-
-[[files]]
-file = "config/forgery/features.ini"
-hash = "756866e9e541624caa6840a7467249f85113d4df2a4cbcc0483d343dd8c08b98"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -210,6 +202,11 @@ hash = "3cf42a50b82f08f77419d55188b2d0e8916792eca0021dc5a34a5bc8714652c8"
 metafile = true
 
 [[files]]
+file = "mods/alterna.pw.toml"
+hash = "a5830f7aed8994b082cd4905e38b010805a47c25f4014dc00000025f367aaf35"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -242,11 +239,6 @@ metafile = true
 [[files]]
 file = "mods/berry-good.pw.toml"
 hash = "093abe6db61cc854c7bcd46a3e0bec69fb03af507a8afcc3fdf25e1a58aa6aa6"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
@@ -555,6 +547,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
@@ -717,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
