@@ -310,6 +310,16 @@ hash = "5c92ca1ecca22abcb1c7dd8333042d2a5b5c5259fdcc44ebb497cd1859606460"
 metafile = true
 
 [[files]]
+file = "mods/cheeeese.pw.toml"
+hash = "b39f2072b36d77587f85ab15463cede6a87491f062aa07e12864828495b15ceb"
+metafile = true
+
+[[files]]
+file = "mods/chewy-cheeses.pw.toml"
+hash = "e1c9146151649f35b816926343581b73d0054e8aac7999cd1c2fedc3debba579"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "171914c4eb938f32813bc9449ca5dc90210b33b5b389b4c9f2d718b4e34df2f1"
 metafile = true
