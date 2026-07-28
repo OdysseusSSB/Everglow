@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/chewy-cheeses.pw.toml"
-hash = "2ec56fad85ad90455ae16fa19b3334646290f15c22382ed928470b82d1b8ca74"
+hash = "e1c9146151649f35b816926343581b73d0054e8aac7999cd1c2fedc3debba579"
 metafile = true
 
 [[files]]
