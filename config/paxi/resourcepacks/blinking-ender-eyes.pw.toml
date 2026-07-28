@@ -1,13 +1,13 @@
 name = "Blinking Ender Eyes"
-filename = "EnderEyes_26.1_v3.1.zip"
+filename = "EnderEyes_26.2_v3.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6GgEjSHS/versions/l1gUhnhx/EnderEyes_26.1_v3.1.zip"
+url = "https://cdn.modrinth.com/data/6GgEjSHS/versions/slOCDM2w/EnderEyes_26.2_v3.1.zip"
 hash-format = "sha512"
-hash = "f78094580c26e87d504330c401c29ebf94609949b375aa2594094d54fc51285bab7333f9c40748147025999caf4d07a94f063a6a6a0b88d9587266518ef24940"
+hash = "966ef2f351a1a12d9659feb42a9c86b466208b40ba107eb55568cd2b5d8f386256c3e00528703608837a0ca685d508c9ae11c9dad89cc7e9bfc5829b282505b0"
 
 [update]
 [update.modrinth]
 mod-id = "6GgEjSHS"
-version = "l1gUhnhx"
+version = "slOCDM2w"

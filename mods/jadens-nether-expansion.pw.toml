@@ -1,13 +1,13 @@
 name = "Jaden's Nether Expansion"
-filename = "Jadens-Nether-Expansion-2.4.0-BETA.3.jar"
+filename = "Jadens-Nether-Expansion-2.4.0-BETA.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v3UlehfS/versions/Erki1uJd/Jadens-Nether-Expansion-2.4.0-BETA.3.jar"
+url = "https://cdn.modrinth.com/data/v3UlehfS/versions/6qRP74x9/Jadens-Nether-Expansion-2.4.0-BETA.7.jar"
 hash-format = "sha512"
-hash = "6ba7b70596f4cb0893da5bb13199fc184b15911aa560b7010dc426d3775539a3df9c9ba483e512473d4ad3d5e32b057f1acedefa5bb112bf02b2232e8213933f"
+hash = "356fe53d9e4cf25580514d537a59eeeb67a6c366a5964264ab72684c4b2665b5ee09077448a6b0fe1f95fe823fae21a145a74351794c45dc348eb80b681829eb"
 
 [update]
 [update.modrinth]
 mod-id = "v3UlehfS"
-version = "Erki1uJd"
+version = "6qRP74x9"

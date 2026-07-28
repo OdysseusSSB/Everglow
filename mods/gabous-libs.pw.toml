@@ -1,13 +1,13 @@
 name = "Gabou's Libs - New logo LIZZARRDD"
-filename = "gaboulibs-neoforge-1.4.jar"
+filename = "gaboulibs-neoforge-1.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N8aGZtvj/versions/LsfPosIY/gaboulibs-neoforge-1.4.jar"
+url = "https://cdn.modrinth.com/data/N8aGZtvj/versions/Kf74F4fk/gaboulibs-neoforge-1.8.1.jar"
 hash-format = "sha512"
-hash = "154a34ebd6b57fb66514ad090de3696d79982191cf818e365a989f0e6a75d1200c62ec730d351b649932e11850c753909d6ff66d899ca20de41e77e3d4076cb3"
+hash = "c738d5c011812ec287ec4034979f5a376e59a924c4ae27e3b6a03fda3f5f1a5887a10524b12cf30ebfc5d92427096774c54dd09d35159371f28fc3423b04decd"
 
 [update]
 [update.modrinth]
 mod-id = "N8aGZtvj"
-version = "LsfPosIY"
+version = "Kf74F4fk"
