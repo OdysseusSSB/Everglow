@@ -827,6 +827,11 @@ hash = "d763ba5877e694cd7372af7caac9aacb3382f64767cf6ed64a4b97ecde5bc4a1"
 metafile = true
 
 [[files]]
+file = "mods/teallib.pw.toml"
+hash = "99f89e803723e4684bff03fe6bf7c1dae431e198ed50ef06f624d0d6397568ab"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
