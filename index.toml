@@ -212,6 +212,11 @@ hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]
+file = "mods/animal-weight.pw.toml"
+hash = "e5249e18f04ef72c35f19680892abcf2fce7f9b60aede2129aee5714491a5390"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
