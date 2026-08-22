@@ -3,11 +3,11 @@ filename = "§3Fresh §bFlower Pots Compats§r.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nIWYcvUG/versions/pPIaDegn/%C2%A73Fresh%20%C2%A7bFlower%20Pots%20Compats%C2%A7r.zip"
+url = "https://cdn.modrinth.com/data/nIWYcvUG/versions/JTqR3jkQ/%C2%A73Fresh%20%C2%A7bFlower%20Pots%20Compats%C2%A7r.zip"
 hash-format = "sha512"
-hash = "c1cb345cac5c917550064ea37679ef84831d7f00b52a3979ea8d8abdc673eb8802096e71aad6b746e2d7f5d6a39809c6d84f7c1005c613c687f934c5f682e81f"
+hash = "74ed60edd0c3d4a13940d72eb10e866e1dec69b2a2299ca4b37ac4d2fba9ef2474434ad24565372c21571e75077748355b4c09560ae9ff82b850b36c8f12fc58"
 
 [update]
 [update.modrinth]
 mod-id = "nIWYcvUG"
-version = "pPIaDegn"
+version = "JTqR3jkQ"

@@ -1,13 +1,13 @@
 name = "Chewy Cheeses"
-filename = "chewy_cheeses-1.0.0.jar"
+filename = "chewy_cheeses-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ShJ0eGor/versions/w3rTIYAW/chewy_cheeses-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/ShJ0eGor/versions/QMbWzxFN/chewy_cheeses-1.1.0.jar"
 hash-format = "sha512"
-hash = "6abb899f51c2230248f7709e107848faa061f6968b1e2a761ba874b75f2e8e125b9ce7b4ba09a3e7d4cbffc9dc5ad4a4bd605fbe15a6886d3d969fc8df777b39"
+hash = "28b5428effaa2835e72e8b6ad7f65a58d5492fe319da5867432fb4cbe47a404d653e21c8c903fd8bb7ec9c730b8f52f55f5e31c8545f8188007b4228aa123c17"
 
 [update]
 [update.modrinth]
 mod-id = "ShJ0eGor"
-version = "w3rTIYAW"
+version = "QMbWzxFN"

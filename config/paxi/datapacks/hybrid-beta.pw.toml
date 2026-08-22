@@ -1,13 +1,13 @@
 name = "Cascades"
-filename = "Cascades-v1.0.4.1-1.21.x.zip"
+filename = "hybrid-beta-1.0.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/GgqDFCRx/Cascades-v1.0.4.1-1.21.x.zip"
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/lkuCEuyN/hybrid-beta-1.0.4.1.jar"
 hash-format = "sha512"
-hash = "d7f5e587cce4421f53fff2aa9abc8f7f397ed5af6cc5e88f40013b3e4cd9a33801f9520674aa4caa3a995100ab5d04c4bebd2705c521a76eb60fa768a1c36a9c"
+hash = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
 
 [update]
 [update.modrinth]
 mod-id = "Jmx5kJiS"
-version = "GgqDFCRx"
+version = "lkuCEuyN"
